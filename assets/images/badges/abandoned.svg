@@ -10,4 +10,28 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 -->
 
-<svg xmlns="http://www.w3.org/2000/svg" width="253.25" height="28"><g shape-rendering="crispEdges"><rect width="146" height="28" fill="#555"/><rect x="146" width="107.25" height="28" fill="#e05d44"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><a target="_blank" href="https://gitlab.com/esoterictemplates/status-badges#project-status"><rect width="146" height="28" fill="rgba(0,0,0,0)"/><text transform="scale(.1)" x="730" y="175" textLength="1220" fill="#fff">❌ PROJECT STATUS</text></a><a target="_blank" href="https://gitlab.com/esoterictemplates/status-badges#abandoned"><rect width="107.25" height="28" x="146" fill="rgba(0,0,0,0)"/><text transform="scale(.1)" x="1996.25" y="175" textLength="832.5" fill="#fff" font-weight="bold">ABANDONED</text></a></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="253.25" height="28">
+	<g shape-rendering="crispEdges">
+		<rect width="146" height="28" fill="#555" />
+
+		<rect x="146" width="107.25" height="28" fill="#e05d44" />
+	</g>
+
+	<g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+		<a target="_blank" href="https://gitlab.com/esoterictemplates/status-badges#project-status">
+			<rect width="146" height="28" fill="rgba(0,0,0,0)" />
+
+			<text transform="scale(.1)" x="730" y="175" textLength="1220" fill="#fff">
+				❌ PROJECT STATUS
+			</text>
+		</a>
+
+		<a target="_blank" href="https://gitlab.com/esoterictemplates/status-badges#abandoned">
+			<rect width="107.25" height="28" x="146" fill="rgba(0,0,0,0)" />
+
+			<text transform="scale(.1)" x="1996.25" y="175" textLength="832.5" fill="#fff" font-weight="bold">
+				ABANDONED
+			</text>
+		</a>
+	</g>
+</svg>
