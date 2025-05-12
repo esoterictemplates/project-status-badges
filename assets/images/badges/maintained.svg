@@ -22,16 +22,12 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 	<g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
 		<a target="_blank" href="https://gitlab.com/esoterictemplates/status-badges#project-status">
-			<rect width="146.25" height="28" fill="rgba(0,0,0,0)" />
-
 			<text transform="scale(.1)" x="731.25" y="175" textLength="1222.5" fill="#fff">
 				🔄 PROJECT STATUS
 			</text>
 		</a>
 
 		<a target="_blank" href="https://gitlab.com/esoterictemplates/status-badges#maintained">
-			<rect width="110.5" height="28" x="146.25" fill="rgba(0,0,0,0)" />
-
 			<text transform="scale(.1)" x="2015" y="175" textLength="865" fill="#fff" font-weight="bold">
 				MAINTAINED
 			</text>
