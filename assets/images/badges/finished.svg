@@ -11,6 +11,9 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 -->
 
 <svg xmlns="http://www.w3.org/2000/svg" width="236" height="28">
+	<title>Project Status: Finished</title>
+	<desc>A gray and green colored badge to indicate that a project is complete and not worked on anymore.</desc>
+
 	<g shape-rendering="crispEdges">
 		<rect width="146" height="28" fill="#555" />
 
