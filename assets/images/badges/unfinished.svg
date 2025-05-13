@@ -11,7 +11,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 -->
 
 <svg xmlns="http://www.w3.org/2000/svg" width="255.75" height="28" role="document" aria-labelledby="title">
-	<title id="title">Project Status: Unfinished</title>
+	<title id="title">Project Status Badge: 'Unfinished'</title>
 	<desc>A gray and yellow colored badge to indicate that a project is not finished and is still work in progress.</desc>
 
 	<g shape-rendering="crispEdges">

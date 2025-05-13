@@ -11,7 +11,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 -->
 
 <svg xmlns="http://www.w3.org/2000/svg" width="256.75" height="28" role="document" aria-labelledby="title">
-	<title id="title">Project Status: Maintained</title>
+	<title id="title">Project Status Badge: 'Maintained'</title>
 	<desc>A gray and teal colored badge to indicate that a project is maintained and may be updated in the future.</desc>
 
 	<g shape-rendering="crispEdges">
