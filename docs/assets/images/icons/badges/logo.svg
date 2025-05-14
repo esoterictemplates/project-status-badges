@@ -75,23 +75,23 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
        xml:space="preserve"
        style="font-size:100px;fill:white;fill-opacity:1;stroke-width:125"
        x="15.45"
-       y="96"
+       y="131.7"
        id="project-text-wrapper"><tspan
          sodipodi:role="line"
          x="15.45"
-         y="96"
+         y="131.7"
          style="stroke-width:125"
          id="project-text">P</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:100px;fill:white;fill-opacity:1;stroke-width:125"
        x="116.35"
-       y="168.4"
+       y="131.7"
        id="status-text-wrapper"><tspan
          sodipodi:role="line"
          id="status-text"
          x="116.35"
-         y="168.4"
+         y="131.7"
          style="stroke-width:125">S</tspan></text>
   </g>
   <metadata
