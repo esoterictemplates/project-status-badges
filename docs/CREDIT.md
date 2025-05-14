@@ -46,6 +46,15 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 * [unfinished.svg][unfinished-original] originally from [img.shields.io][unfinished-remote]
 * [abandoned.svg][abandoned-original] originally from [img.shields.io][abandoned-remote]
 
+## [Inkscape][inkscape] [1.2.2][inkscape-1.2.2]
+
+<sup>By [Inkscape developers][inkscape-developers] and [authors][inkscape-authors]</sup>\
+<sup>Licensed under the [Inkscape license][inkscape-license]</sup>
+
+### Files
+
+* [logo.svg][logo] created using [Inkscape][inkscape] [1.2.2][inkscape-1.2.2]
+
 <!--- Link aliases --->
 
 <!--- Credit --->
@@ -96,6 +105,18 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 [shields-license-statement]: https://github.com/badges/shields/tree/29e39351ae557d536580d90521c390514b867e19?tab=readme-ov-file#license
 [shields-license]: https://github.com/badges/shields/blob/29e39351ae557d536580d90521c390514b867e19/LICENSE
+
+<!--- Inkscape --->
+
+[inkscape]: https://inkscape.org/
+[inkscape-1.2.2]: https://gitlab.com/inkscape/inkscape/-/tree/b0a8486541ac36327488da641d58a86bee2f07ad
+
+[inkscape-authors]: https://gitlab.com/inkscape/inkscape/-/blob/b0a8486541ac36327488da641d58a86bee2f07ad/AUTHORS
+[inkscape-developers]: https://inkscape.org/*developer/
+
+[inkscape-license]: https://inkscape.org/about/license/
+
+[logo]: ./assets/images/icons/badges/logo.svg
 
 <!--- Generic licenses --->
 
