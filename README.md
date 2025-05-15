@@ -28,19 +28,19 @@ This system defines $4$ distinct states at which a project can be:
 
 ### Maintained
 
-![Maintained status badge][maintained]
+![Project Status Badge: 'Maintained'][maintained]
 
 ### Finished
 
-![Finished status badge][finished]
+![Project Status Badge: 'Finished'][finished]
 
 ### Unfinished
 
-![Unfinished status badge][unfinished]
+![Project Status Badge: 'Unfinished'][unfinished]
 
 ### Abandoned
 
-![Abandoned status badge][abandoned]
+![Project Status Badge: 'Abandoned'][abandoned]
 
 ## License
 
