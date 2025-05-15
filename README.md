@@ -26,6 +26,18 @@ Project status badges for quickly and easily indicating the [status](#project-st
 
 This system defines $4$ distinct states at which a project can be:
 
+* [Maintained][maintained]
+* [Finished][finished]
+* [Unfinished][unfinished]
+* [Abandoned][abandoned]
+
+These statuses can be organised and described by the following table:
+
+| Is there a stable version of the project? \ Will you keep working on the project?                | Yes                                               | No                                              |
+---------------------------------------------------------------------------------------------------|---------------------------------------------------|-------------------------------------------------|
+| Yes                                                                                              | ![Project Status Badge: 'Maintained'][maintained] | ![Project Status Badge: 'Finished'][finished]   |
+| No                                                                                               | ![Project Status Badge: 'Unfinished'][unfinished] | ![Project Status Badge: 'Abandoned'][abandoned] |
+
 ### Maintained
 
 ![Project Status Badge: 'Maintained'][maintained]
