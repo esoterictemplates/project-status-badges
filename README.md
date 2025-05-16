@@ -40,7 +40,7 @@ These statuses can be organised and described by the following table:
 
 ### Stable Versions
 
-A stable version of a project is defined as a version or revision of the project that you would consider complete - it should contain all of the features that were originally planned for the project.
+A stable version of a project is defined as a version or revision of the project that you would consider complete - it should contain all of the features that were originally planned for the project. It should not contain any known bugs (ideally, it shouldn't contain any bugs or issues).
 
 ### Work in Progress Projects
 
