@@ -20,7 +20,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 ### Files
 
-* [LICENSE][isc-license-local] from [isc.org][isc-license]
+* [LICENSE][isc-license-local] template from [isc.org][isc-license]
 
 ## [Creative Commons][cc] [Icons][cc-icons]
 
