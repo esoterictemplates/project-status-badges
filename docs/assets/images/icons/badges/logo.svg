@@ -129,11 +129,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
         </dc:contributor>
         <dc:relation>https://shields.io/</dc:relation>
         <dc:identifier>https://gitlab.com/esoterictemplates/status-badges/-/blob/main/docs/assets/images/icons/badges/logo.svg?ref_type=heads</dc:identifier>
-        <dc:rights>
-          <cc:Agent>
-            <dc:title>Esoteric Enderman</dc:title>
-          </cc:Agent>
-        </dc:rights>
+        <dc:rights>Copyright (c) 2025 Esoteric Enderman. Project Status Badges Logo is licensed under the ISC License.</dc:rights>
         <dc:date>2025-05-14</dc:date>
         <dc:publisher>
           <cc:Agent>
