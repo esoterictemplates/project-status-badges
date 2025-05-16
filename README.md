@@ -20,6 +20,9 @@ Project status badges for quickly and easily indicating the [status](#project-st
 
 ## Links
 
+- [GitLab][project-gitlab]
+- [GitHub][project-github]
+- [Codeberg][project-codeberg]
 - [Credit][credit]
 
 ## Project Status
@@ -71,6 +74,10 @@ A project is work in progress if you may still update it in the future or you ar
 <!--- Link aliases --->
 
 [project]: ./
+
+[project-gitlab]: https://gitlab.com/esoterictemplates/project-status-badges
+[project-github]: https://github.com/esoterictemplates/project-status-badges
+[project-codeberg]: https://codeberg.org/esoterictemplates/status-badges
 
 [author]: https://enderman.dev
 
