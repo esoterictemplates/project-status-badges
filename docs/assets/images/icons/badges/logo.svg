@@ -16,6 +16,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
    height="192"
    role="graphics-symbol"
    aria-labelledby="title"
+   aria-describedby="description"
    viewBox="0 0 192 192"
    version="1.1"
    id="root"
@@ -33,6 +34,8 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title">Project Status Badges Logo</title>
+  <desc
+     id="description">The logo of the Project Sttus Badges repository.</desc>
   <sodipodi:namedview
      id="view"
      pagecolor="#ffffff"

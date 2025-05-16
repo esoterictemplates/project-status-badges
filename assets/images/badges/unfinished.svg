@@ -11,9 +11,9 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 -->
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" width="255.75" height="28" role="document" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" width="255.75" height="28" role="document" aria-labelledby="title" aria-describedby="description">
 	<title id="title">Project Status Badge: 'Unfinished'</title>
-	<desc>A gray and yellow colored badge to indicate that a project is not finished and is still work in progress.</desc>
+	<desc id="description">A gray and yellow colored badge to indicate that a project is not finished and is still work in progress.</desc>
 
 	<g shape-rendering="crispEdges">
 		<rect width="146.25" height="28" fill="#555" />
