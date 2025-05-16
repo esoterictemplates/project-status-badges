@@ -120,11 +120,13 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
         <dc:creator>
           <cc:Agent>
             <dc:title>Esoteric Enderman</dc:title>
+            <cc:homepage rdf:resource="https://enderman.dev/" />
           </cc:Agent>
         </dc:creator>
         <dc:contributor>
           <cc:Agent>
             <dc:title>Esoteric Enderman</dc:title>
+            <cc:homepage rdf:resource="https://enderman.dev/" />
           </cc:Agent>
         </dc:contributor>
         <dc:relation>https://shields.io/</dc:relation>
@@ -134,6 +136,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
         <dc:publisher>
           <cc:Agent>
             <dc:title>Esoteric Enderman</dc:title>
+            <cc:homepage rdf:resource="https://enderman.dev/" />
           </cc:Agent>
         </dc:publisher>
         <cc:license
