@@ -33,10 +33,18 @@ This system defines $4$ distinct states at which a project can be:
 
 These statuses can be organised and described by the following table:
 
-| Is there a stable version of the project? \ Will you keep working on the project?                | Yes                                               | No                                              |
----------------------------------------------------------------------------------------------------|---------------------------------------------------|-------------------------------------------------|
-| Yes                                                                                              | ![Project Status Badge: 'Maintained'][maintained] | ![Project Status Badge: 'Finished'][finished]   |
-| No                                                                                               | ![Project Status Badge: 'Unfinished'][unfinished] | ![Project Status Badge: 'Abandoned'][abandoned] |
+| $\downarrow$ [Stable version](#stable-versions)? \ [WIP](#work-in-progress-projects)? $\rightarrow$ | Yes                                               | No                                              |
+------------------------------------------------------------------------------------------------------|---------------------------------------------------|-------------------------------------------------|
+| Yes                                                                                                 | ![Project Status Badge: 'Maintained'][maintained] | ![Project Status Badge: 'Finished'][finished]   |
+| No                                                                                                  | ![Project Status Badge: 'Unfinished'][unfinished] | ![Project Status Badge: 'Abandoned'][abandoned] |
+
+### Stable Versions
+
+A stable version of a project is defined as a version or revision of the project that you would consider complete - it should contain all of the features that were originally planned for the project.
+
+### Work in Progress Projects
+
+A project is work in progress if you may still update it in the future or you are actively developing it right now.
 
 ### Maintained
 
