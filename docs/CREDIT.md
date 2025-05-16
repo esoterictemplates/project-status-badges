@@ -14,8 +14,9 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 ## The [ISC License][isc-license]
 
-<sup>By the [Internet Systems Consortium (ISC)][isc-license-author]</sup>\
-<sup>[Effectively in the public domain][isc-license-license]</sup>
+<sup>&copy; 1995-2003 the [Internet Software Consortium][isc-license-author]</sup>\
+<sup>&copy; 2004-2013 the [Internet Systems Consortium, Inc. ("ISC")][isc-license-author]</sup>\
+<sup>[Licensed][isc-license-license-statement] ["like SPDX: 0BSD"][isc-license-license]</sup>
 
 ### Files
 
@@ -64,6 +65,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 [isc-license]: https://www.isc.org/licenses/
 [isc-license-local]: ../LICENSE
 
+[isc-license-license-statement]: https://www.isc.org/licenses/
 [isc-license-license]: https://www.isc.org/licenses/
 
 [isc-license-author]: https://www.isc.org/
