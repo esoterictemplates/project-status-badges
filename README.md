@@ -77,7 +77,7 @@ A project is work in progress if you may still update it in the future or you ar
 
 [project-gitlab]: https://gitlab.com/esoterictemplates/project-status-badges
 [project-github]: https://github.com/esoterictemplates/project-status-badges
-[project-codeberg]: https://codeberg.org/esoterictemplates/status-badges
+[project-codeberg]: https://codeberg.org/esoterictemplates/project-status-badges
 
 [author]: https://enderman.dev
 
