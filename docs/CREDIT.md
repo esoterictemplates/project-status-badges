@@ -14,7 +14,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 ## The [ISC License][isc-license]
 
-<sup>By the [Internet Systems Consortium][isc-license-author]</sup>\
+<sup>By the [Internet Systems Consortium (ISC)][isc-license-author]</sup>\
 <sup>[Effectively in the public domain][isc-license-license]</sup>
 
 ### Files
