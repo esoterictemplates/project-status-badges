@@ -28,13 +28,13 @@
 	</g>
 
 	<g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
-		<a target="_blank" href="https://gitlab.com/esoterictemplates/project-status-badges#project-status" xlink:href="https://gitlab.com/esoterictemplates/project-status-badges#project-status">
+		<a target="_blank" href="https://gitlab.com/esoterictemplates/project-status-badges#project-status" xlink:href="https://gitlab.com/esoterictemplates/project-status-badges#project-status" aria-label="Project status system information link">
 			<text transform="scale(.1)" x="730" y="175" textLength="1220">
 				✅ PROJECT STATUS
 			</text>
 		</a>
 
-		<a target="_blank" href="https://gitlab.com/esoterictemplates/project-status-badges#finished" xlink:href="https://gitlab.com/esoterictemplates/project-status-badges#finished">
+		<a target="_blank" href="https://gitlab.com/esoterictemplates/project-status-badges#finished" xlink:href="https://gitlab.com/esoterictemplates/project-status-badges#finished" aria-label="'Finished' project status information link">
 			<text transform="scale(.1)" x="1910" y="175" textLength="660" font-weight="bold">
 				FINISHED
 			</text>
