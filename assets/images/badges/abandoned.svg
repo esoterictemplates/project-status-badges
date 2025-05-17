@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" width="253.25" height="28" viewBox="0 0 253.25 28" role="document" aria-labelledby="title" aria-describedby="description">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink" width="253.25" height="28" viewBox="0 0 253.25 28" role="document" aria-labelledby="title" aria-describedby="description">
 	<title id="title">Project Status Badge: 'Abandoned'</title>
 	<desc id="description">A gray and red colored badge to indicate that a project is not complete, has been marked as abandoned and is not worked on anymore.</desc>
 
@@ -11,13 +11,13 @@
 	</g>
 
 	<g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
-		<a target="_blank" href="https://gitlab.com/esoterictemplates/project-status-badges#project-status">
+		<a target="_blank" href="https://gitlab.com/esoterictemplates/project-status-badges#project-status" xlink:href="https://gitlab.com/esoterictemplates/project-status-badges#project-status">
 			<text transform="scale(.1)" x="730" y="175" textLength="1220">
 				❌ PROJECT STATUS
 			</text>
 		</a>
 
-		<a target="_blank" href="https://gitlab.com/esoterictemplates/project-status-badges#abandoned">
+		<a target="_blank" href="https://gitlab.com/esoterictemplates/project-status-badges#abandoned" xlink:href="https://gitlab.com/esoterictemplates/project-status-badges#abandoned">
 			<text transform="scale(.1)" x="1996.25" y="175" textLength="832.5" font-weight="bold">
 				ABANDONED
 			</text>
