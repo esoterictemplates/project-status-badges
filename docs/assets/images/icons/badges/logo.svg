@@ -165,7 +165,7 @@
             <rdf:li>svg</rdf:li>
           </rdf:Bag>
         </dc:subject>
-        <dc:language>English</dc:language>
+        <dc:language>en</dc:language>
         <dc:creator>
           <cc:Agent>
             <dc:title>Esoteric Enderman</dc:title>
