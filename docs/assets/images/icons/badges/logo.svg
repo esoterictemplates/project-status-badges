@@ -80,6 +80,15 @@
         id="right-square"
         width="96"
         height="192"
+        ry="48"
+        rx="48"
+        x="96"
+        y="0" />
+      <rect
+        style="fill:teal;fill-opacity:1;stroke-width:10.6066"
+        id="right-square-back"
+        width="48"
+        height="192"
         x="96"
         y="0" />
       <rect
@@ -87,7 +96,16 @@
         id="left-square"
         width="96"
         height="192"
+        rx="48"
+        ry="48"
         x="0"
+        y="0" />
+      <rect
+        style="fill:#555;fill-opacity:1;stroke-width:10.6066"
+        id="left-square-back"
+        width="48"
+        height="192"
+        x="48"
         y="0" />
       <text
         xml:space="preserve"
