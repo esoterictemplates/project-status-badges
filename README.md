@@ -38,7 +38,7 @@ This system defines $4$ distinct states at which a project can be:
 These statuses can be organised and described by the following table:
 
 | v [Stable version](#stable-versions)? \ [WIP](#work-in-progress-projects)? > | Yes                                               | No                                              |
--------------------------------------------------------------------------------|---------------------------------------------------|-------------------------------------------------|
+|------------------------------------------------------------------------------|---------------------------------------------------|-------------------------------------------------|
 | Yes                                                                          | ![Project Status Badge: 'Maintained'][maintained] | ![Project Status Badge: 'Finished'][finished]   |
 | No                                                                           | ![Project Status Badge: 'Unfinished'][unfinished] | ![Project Status Badge: 'Abandoned'][abandoned] |
 
