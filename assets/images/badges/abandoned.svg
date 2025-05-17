@@ -11,6 +11,24 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 -->
 
+<!--
+
+Credit
+======
+
+The ISC License <https://www.isc.org/licenses/>
+===============
+Copyright (c) 1995-2003 Internet Software Consortium <https://www.isc.org/>
+Copyright (c) 2004-2013 Internet Systems Consortium, Inc. ("ISC") <https://www.isc.org/>
+Licensed "like SPDX: 0BSD" <https://www.isc.org/licenses/>
+
+Shields.io Badges @ 2025/5/1 <https://github.com/badges/shields/tree/29e39351ae557d536580d90521c390514b867e19>
+=================
+By Shields.io contributors <https://shields.io/community#contributors>
+Licensed under CC0 <https://github.com/badges/shields/blob/29e39351ae557d536580d90521c390514b867e19/LICENSE>
+
+-->
+
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" width="253.25" height="28" viewBox="0 0 253.25 28" role="document" aria-labelledby="title" aria-describedby="description">
 	<title id="title">Project Status Badge: 'Abandoned'</title>
 	<desc id="description">A gray and red colored badge to indicate that a project is not complete, has been marked as abandoned and is not worked on anymore.</desc>

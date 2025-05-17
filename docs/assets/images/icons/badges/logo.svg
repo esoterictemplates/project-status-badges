@@ -11,6 +11,29 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 -->
 
+<!--
+
+Credit
+======
+
+The ISC License <https://www.isc.org/licenses/>
+===============
+Copyright (c) 1995-2003 Internet Software Consortium <https://www.isc.org/>
+Copyright (c) 2004-2013 Internet Systems Consortium, Inc. ("ISC") <https://www.isc.org/>
+Licensed "like SPDX: 0BSD" <https://www.isc.org/licenses/>
+
+Shields.io Badges @ 2025/5/1 <https://github.com/badges/shields/tree/29e39351ae557d536580d90521c390514b867e19>
+=================
+By Shields.io contributors <https://shields.io/community#contributors>
+Licensed under CC0 <https://github.com/badges/shields/blob/29e39351ae557d536580d90521c390514b867e19/LICENSE>
+
+Inkscape 1.2.2 <https://gitlab.com/inkscape/inkscape/-/tree/b0a8486541ac36327488da641d58a86bee2f07ad>
+========
+By Inkscape developers and authors <https://gitlab.com/inkscape/inkscape/-/blob/b0a8486541ac36327488da641d58a86bee2f07ad/AUTHORS>
+Licensed under the Inkscape license <https://inkscape.org/about/license/>
+
+-->
+
 <svg
    width="192"
    height="192"
