@@ -28,7 +28,7 @@ Project status badges for quickly and easily indicating the [status](#project-st
 
 ## Project Status
 
-This system defines $4$ distinct states at which a project can be:
+This system defines 4 distinct states at which a project can be:
 
 * [Maintained][maintained]
 * [Finished][finished]
