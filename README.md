@@ -95,7 +95,7 @@ A project is work in progress if you may still update it in the future or you ar
 
 <!--- Badges --->
 
-[project-status]: https://gitlab.com/esoterictemplates/status-badges#project-status
+[project-status]: https://gitlab.com/esoterictemplates/project-status-badges#project-status
 
 [status]: ./assets/images/badges/unfinished.svg
 

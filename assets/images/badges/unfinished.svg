@@ -36,13 +36,13 @@ Licensed under CC0 <https://github.com/badges/shields/blob/29e39351ae557d536580d
 	</g>
 
 	<g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
-		<a target="_blank" href="https://gitlab.com/esoterictemplates/status-badges#project-status">
+		<a target="_blank" href="https://gitlab.com/esoterictemplates/project-status-badges#project-status">
 			<text transform="scale(.1)" x="731.25" y="175" textLength="1222.5">
 				🚧 PROJECT STATUS
 			</text>
 		</a>
 
-		<a target="_blank" href="https://gitlab.com/esoterictemplates/status-badges#unfinished">
+		<a target="_blank" href="https://gitlab.com/esoterictemplates/project-status-badges#unfinished">
 			<text transform="scale(.1)" x="2010" y="175" textLength="855" font-weight="bold">
 				UNFINISHED
 			</text>
@@ -85,7 +85,7 @@ Licensed under CC0 <https://github.com/badges/shields/blob/29e39351ae557d536580d
 					</cc:Agent>
 				</dc:contributor>
 				<dc:relation>https://shields.io/</dc:relation>
-				<dc:identifier>https://gitlab.com/esoterictemplates/status-badges/-/blob/main/assets/images/badges/unfinished.svg?ref_type=heads</dc:identifier>
+				<dc:identifier>https://gitlab.com/esoterictemplates/project-status-badges/-/blob/main/assets/images/badges/unfinished.svg?ref_type=heads</dc:identifier>
 				<dc:rights>
 					Copyright (c) 2025 Esoteric Enderman. Project Status Badge: 'Unfinished' is licensed under the ISC License.
 				</dc:rights>
@@ -96,8 +96,8 @@ Licensed under CC0 <https://github.com/badges/shields/blob/29e39351ae557d536580d
 						<cc:homepage rdf:resource="https://enderman.dev/" />
 					</cc:Agent>
 				</dc:publisher>
-				<cc:license rdf:resource="https://gitlab.com/esoterictemplates/status-badges/-/blob/main/LICENSE?ref_type=heads" />
-				<dc:source>https://img.shields.io/badge/%F0%9F%9A%A7%20Project%20status-Unfinished-yellow?style=for-the-badge&amp;link=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fstatus-badges%23project-status&amp;link=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fstatus-badges%23unfinished</dc:source>
+				<cc:license rdf:resource="https://gitlab.com/esoterictemplates/project-status-badges/-/blob/main/LICENSE?ref_type=heads" />
+				<dc:source>https://img.shields.io/badge/%F0%9F%9A%A7%20Project%20status-Unfinished-yellow?style=for-the-badge&amp;link=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%23project-status&amp;link=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%23unfinished</dc:source>
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>

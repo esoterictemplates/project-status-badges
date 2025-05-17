@@ -152,7 +152,7 @@ Licensed under the Inkscape license <https://inkscape.org/about/license/>
           </cc:Agent>
         </dc:contributor>
         <dc:relation>https://shields.io/</dc:relation>
-        <dc:identifier>https://gitlab.com/esoterictemplates/status-badges/-/blob/main/docs/assets/images/icons/badges/logo.svg?ref_type=heads</dc:identifier>
+        <dc:identifier>https://gitlab.com/esoterictemplates/project-status-badges/-/blob/main/docs/assets/images/icons/badges/logo.svg?ref_type=heads</dc:identifier>
         <dc:rights>Copyright (c) 2025 Esoteric Enderman. Project Status Badges Logo is licensed under the ISC License.</dc:rights>
         <dc:date>2025-05-14</dc:date>
         <dc:publisher>
@@ -162,7 +162,7 @@ Licensed under the Inkscape license <https://inkscape.org/about/license/>
           </cc:Agent>
         </dc:publisher>
         <cc:license
-           rdf:resource="https://gitlab.com/esoterictemplates/status-badges/-/blob/main/LICENSE?ref_type=heads" />
+           rdf:resource="https://gitlab.com/esoterictemplates/project-status-badges/-/blob/main/LICENSE?ref_type=heads" />
       </cc:Work>
     </rdf:RDF>
   </metadata>
