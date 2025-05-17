@@ -92,6 +92,13 @@
         x="96"
         y="0" />
       <rect
+         style="display:none;fill:teal;fill-opacity:1;stroke-width:15"
+         id="right-square-full"
+         width="96"
+         height="192"
+         x="96"
+         y="0" />
+      <rect
         style="fill:#555;fill-opacity:1;stroke-width:15"
         id="left-square"
         width="96"
@@ -106,6 +113,13 @@
         width="48"
         height="192"
         x="48"
+        y="0" />
+      <rect
+        style="display:none;fill:#555;fill-opacity:1;stroke-width:15"
+        id="left-square-full"
+        width="96"
+        height="192"
+        x="0"
         y="0" />
       <text
         xml:space="preserve"
