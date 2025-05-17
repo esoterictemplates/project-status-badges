@@ -27,15 +27,15 @@
 		<rect x="146.25" width="109.5" height="28" fill="#dfb317" />
 	</g>
 
-	<g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+	<g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="10">
 		<a target="_blank" href="https://gitlab.com/esoterictemplates/project-status-badges#project-status" xlink:href="https://gitlab.com/esoterictemplates/project-status-badges#project-status" aria-label="Project status system information link">
-			<text transform="scale(.1)" x="731.25" y="175" textLength="1222.5">
+			<text x="73.125" y="17.5" textLength="122.25">
 				🚧 PROJECT STATUS
 			</text>
 		</a>
 
 		<a target="_blank" href="https://gitlab.com/esoterictemplates/project-status-badges#unfinished" xlink:href="https://gitlab.com/esoterictemplates/project-status-badges#unfinished" aria-label="'Unfinished' project status information link">
-			<text transform="scale(.1)" x="2010" y="175" textLength="855" font-weight="bold">
+			<text x="201" y="17.5" textLength="85.5" font-weight="bold">
 				UNFINISHED
 			</text>
 		</a>

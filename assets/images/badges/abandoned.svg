@@ -27,15 +27,15 @@
 		<rect x="146" width="107.25" height="28" fill="#e05d44" />
 	</g>
 
-	<g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+	<g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="10">
 		<a target="_blank" href="https://gitlab.com/esoterictemplates/project-status-badges#project-status" xlink:href="https://gitlab.com/esoterictemplates/project-status-badges#project-status" aria-label="Project status system information link">
-			<text transform="scale(.1)" x="730" y="175" textLength="1220">
+			<text x="73" y="17.5" textLength="122">
 				❌ PROJECT STATUS
 			</text>
 		</a>
 
 		<a target="_blank" href="https://gitlab.com/esoterictemplates/project-status-badges#abandoned" xlink:href="https://gitlab.com/esoterictemplates/project-status-badges#abandoned" aria-label="'Abandoned' project status information link">
-			<text transform="scale(.1)" x="1996.25" y="175" textLength="832.5" font-weight="bold">
+			<text x="199.625" y="17.5" textLength="83.25" font-weight="bold">
 				ABANDONED
 			</text>
 		</a>
