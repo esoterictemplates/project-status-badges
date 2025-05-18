@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink" width="255.75" height="28" viewBox="0 0 255.75 28" role="document" aria-labelledby="title" aria-describedby="description">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink" width="255.75" height="28" viewBox="0 0 255.75 28" role="document" aria-labelledby="title" aria-describedby="description">
 	<title id="title">Project Status Badge: 'Unfinished'</title>
 	<desc id="description">A gray and yellow colored badge to indicate that a project is not finished and is still work in progress.</desc>
 
