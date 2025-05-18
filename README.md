@@ -18,11 +18,11 @@ Project status badges for quickly and easily indicating the [status](#project-st
 
 ## Links
 
-- [GitLab][project-gitlab]
-- [GitHub][project-github]
-- [Codeberg][project-codeberg]
-- [Sourcehut][project-sourcehut]
-- [Credit][credit]
+* [GitLab][project-gitlab]
+* [GitHub][project-github]
+* [Codeberg][project-codeberg]
+* [Sourcehut][project-sourcehut]
+* [Credit][credit]
 
 ## Project Status
 
