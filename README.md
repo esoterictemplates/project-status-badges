@@ -10,9 +10,9 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 # Project Status Badges
 
-![Project status badges logo][logo]
-
 <sup>By [Esoteric Enderman][author]</sup>
+
+![Project status badges logo][logo]
 
 [![Project status: unfinished][status]][project-status]
 
