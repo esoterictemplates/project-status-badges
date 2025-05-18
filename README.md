@@ -26,7 +26,7 @@ Project status badges for quickly and easily indicating the [status](#project-st
 
 ## Project Status
 
-This system defines 4 distinct states at which a project can be:
+This system defines **4 distinct states** at which a project can be:
 
 * [Maintained][maintained]
 * [Finished][finished]
@@ -42,11 +42,17 @@ These statuses can be organised and described by the following table:
 
 ### Stable Versions
 
-A stable version of a project is defined as a version or revision of the project that you would consider complete - it should contain all of the features that were originally planned for the project. It should not contain any known bugs (ideally, it shouldn't contain any bugs or issues).
+A **stable version** of a project is defined as a version or revision of the project that you would consider complete - it should:
+
+* contain all of the features that were originally planned for the project; and
+* not contain any known bugs (ideally, it shouldn't contain any bugs or issues).
 
 ### Work in Progress Projects
 
-A project is work in progress if you may still update it in the future or you are actively developing it right now.
+A project is **work in progress** if:
+
+* it may still be updated in the future; or
+* it is actively being developed right now.
 
 ### Maintained
 
