@@ -52,7 +52,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 ### Files
 
-* [logo.svg][logo] created using [Inkscape][inkscape] [1.2.2][inkscape-1.2.2]
+* [icon.svg][icon] created using [Inkscape][inkscape] [1.2.2][inkscape-1.2.2]
 
 <!--- Link aliases --->
 
@@ -116,7 +116,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 [inkscape-license]: https://inkscape.org/about/license/
 
-[logo]: ./assets/images/icons/badges/logo.svg
+[icon]: ./assets/images/icons/badges/icon.svg
 
 <!--- Generic licenses --->
 
