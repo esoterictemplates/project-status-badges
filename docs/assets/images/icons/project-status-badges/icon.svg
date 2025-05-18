@@ -166,7 +166,7 @@
           </cc:Agent>
         </dc:contributor>
         <dc:relation>https://shields.io/</dc:relation>
-        <dc:identifier>https://gitlab.com/esoterictemplates/project-status-badges/-/blob/main/docs/assets/images/icons/badges/icon.svg?ref_type=heads</dc:identifier>
+        <dc:identifier>https://gitlab.com/esoterictemplates/project-status-badges/-/blob/main/docs/assets/images/icons/project-status-badges/icon.svg?ref_type=heads</dc:identifier>
         <dc:rights>
           ISC License
 

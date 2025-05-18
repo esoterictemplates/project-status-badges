@@ -116,7 +116,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 [inkscape-license]: https://inkscape.org/about/license/
 
-[icon]: ./assets/images/icons/badges/icon.svg
+[icon]: ./assets/images/icons/project-status-badges/icon.svg
 
 <!--- Generic licenses --->
 

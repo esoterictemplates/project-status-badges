@@ -113,7 +113,7 @@ The [badges][badges] and [icon][icon] of this project have been verified using t
 [credit]: ./docs/CREDIT.md
 
 [badges]: ./assets/images/badges/
-[icon]: ./docs/assets/images/icons/badges/icon.svg
+[icon]: ./docs/assets/images/icons/project-status-badges/icon.svg
 
 <!--- Badges --->
 
