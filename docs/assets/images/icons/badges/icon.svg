@@ -77,22 +77,6 @@
         id="project-text-background"
         width="96"
         height="192"
-        rx="48"
-        ry="48"
-        x="0"
-        y="0" />
-      <rect
-        style="fill:#555;fill-opacity:1;stroke-width:10.6066"
-        id="project-text-background-back"
-        width="48"
-        height="192"
-        x="48"
-        y="0" />
-      <rect
-        style="display:none;fill:#555;fill-opacity:1;stroke-width:15"
-        id="project-text-background-full"
-        width="96"
-        height="192"
         x="0"
         y="0" />
       <text
