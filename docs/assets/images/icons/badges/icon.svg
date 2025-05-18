@@ -73,6 +73,15 @@
       inkscape:groupmode="layer"
       id="layer-1">
       <rect
+         style="fill:#e05d44;fill-opacity:1;fill-rule:evenodd;stroke-width:20.8452;paint-order:markers fill stroke"
+         id="status-text-background-bottom"
+         width="96"
+         height="96"
+         x="96"
+         y="96"
+         rx="48"
+         ry="48" />
+      <rect
         style="fill:#555;fill-opacity:1;stroke-width:15"
         id="project-text-background"
         width="96"
@@ -110,7 +119,9 @@
          style="fill:teal;fill-rule:evenodd;stroke-width:10.81;paint-order:markers fill stroke"
          id="status-text-background-top"
          width="96"
-         height="48"
+         height="96"
+         rx="48"
+         ry="48"
          x="96"
          y="0" />
       <rect
@@ -121,6 +132,13 @@
          x="96"
          y="48" />
       <rect
+         style="fill:teal;fill-rule:evenodd;stroke-width:7.66469;paint-order:markers fill stroke"
+         id="status-text-background-top-back"
+         width="48"
+         height="48"
+         x="96"
+         y="0" />
+      <rect
          style="fill:#dfb317;fill-opacity:1;fill-rule:evenodd;stroke-width:14.7398;paint-order:markers fill stroke"
          id="status-text-background-middle-bottom"
          width="96"
@@ -129,8 +147,8 @@
          y="96" />
       <rect
          style="fill:#e05d44;fill-opacity:1;fill-rule:evenodd;stroke-width:14.7398;paint-order:markers fill stroke"
-         id="status-text-background-bottom"
-         width="96"
+         id="status-text-background-bottom-back"
+         width="48"
          height="48"
          x="96"
          y="144" />
