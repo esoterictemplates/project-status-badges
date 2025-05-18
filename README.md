@@ -58,17 +58,25 @@ A project is **work in progress** if:
 
 ![Project Status Badge: 'Maintained'][maintained]
 
+**Maintained** projects are mature, have at least one [stable version](#stable-versions) and are still being *developed*, or they are simply being *kept up-to-date*. This is the 'ideal' state for a project.
+
 ### Finished
 
 ![Project Status Badge: 'Finished'][finished]
+
+**Finished** projects are self-explanatory: the project has been marked as *complete* and won't be worked on anymore. This is the best-case scenario for projects you don't want to work on anymore.
 
 ### Unfinished
 
 ![Project Status Badge: 'Unfinished'][unfinished]
 
+**Unfinished** projects are still in a *work-in-progress* state and may not have all of their intended features implemented. There may be bugs or issues.
+
 ### Abandoned
 
 ![Project Status Badge: 'Abandoned'][abandoned]
+
+**Abandoned** projects are those which do not have a stable (complete) version and which the author(s) decided are not worth working on anymore.
 
 ## Verification
 
