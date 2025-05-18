@@ -21,9 +21,9 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:xlink="http://www.w3.org/1999/xlink">
   <title
-     id="title">Project Status Badges Logo</title>
+     id="title">Project Status Badges Icon</title>
   <desc
-     id="desc">The logo of the Project Status Badges repository.</desc>
+     id="desc">The icon of the Project Status Badges repository.</desc>
   <!--
   Credit
   ======
@@ -152,12 +152,12 @@
     <rdf:RDF>
       <cc:Work
          rdf:about="">
-        <dc:title>Project Status Badges Logo</dc:title>
-        <dc:description>The logo of the Project Status Badges repository.</dc:description>
+        <dc:title>Project Status Badges Icon</dc:title>
+        <dc:description>The icon of the Project Status Badges repository.</dc:description>
         <dc:format>image/svg+xml</dc:format>
         <dc:subject>
           <rdf:Bag>
-            <rdf:li>logo</rdf:li>
+            <rdf:li>icon</rdf:li>
             <rdf:li>badge</rdf:li>
             <rdf:li>status</rdf:li>
             <rdf:li>project</rdf:li>
