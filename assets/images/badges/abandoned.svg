@@ -20,27 +20,49 @@
 	Licensed under CC0 and in the public domain unless specified otherwise <https://github.com/badges/shields/tree/29e39351ae557d536580d90521c390514b867e19?tab=readme-ov-file#license>
 	-->
 
-	<g shape-rendering="crispEdges">
-		<!-- Do not add rounded edges or else this badge will look different to other Shields.io badges! -->
-		<rect width="146" height="28" fill="#555" />
+	<style>
+		rect {
+			shape-rendering: crispEdges;
+		}
 
-		<rect x="146" width="107.25" height="28" fill="#e05d44" />
-	</g>
+		rect.key {
+			fill: #555
+		}
 
-	<g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="10">
-		<!-- The text here may or may not be perfectly centered. Regardless, it's best to leave everything as is, so that it's aligned with the text of other Shields.io badges. -->
-		<a target="_blank" href="https://gitlab.com/esoterictemplates/project-status-badges#project-status" xlink:href="https://gitlab.com/esoterictemplates/project-status-badges#project-status">
-			<text x="73" y="17.5" textLength="122">
-				❌ PROJECT STATUS
-			</text>
-		</a>
+		rect.status {
+			fill: #e05d44
+		}
 
-		<a target="_blank" href="https://gitlab.com/esoterictemplates/project-status-badges#abandoned" xlink:href="https://gitlab.com/esoterictemplates/project-status-badges#abandoned">
-			<text x="199.625" y="17.5" textLength="83.25" font-weight="bold">
-				ABANDONED
-			</text>
-		</a>
-	</g>
+		text {
+			fill: #fff;
+			font-family: Verdana, Geneva, DejaVu Sans, sans-serif;
+			font-size: 10px;
+			text-anchor: middle;
+			text-rendering: geometricPrecision;
+		}
+
+		text.bold {
+			font-weight: bold;
+		}
+	</style>
+
+	<!-- Do not add rounded edges or else this badge will look different to other Shields.io badges! -->
+	<rect width="146" height="28" class="key" />
+
+	<rect x="146" width="107.25" height="28" class="status" />
+
+	<!-- The text here may or may not be perfectly centered. Regardless, it's best to leave everything as is, so that it's aligned with the text of other Shields.io badges. -->
+	<a target="_blank" href="https://gitlab.com/esoterictemplates/project-status-badges#project-status" xlink:href="https://gitlab.com/esoterictemplates/project-status-badges#project-status">
+		<text x="73" y="17.5" textLength="122">
+			❌ PROJECT STATUS
+		</text>
+	</a>
+
+	<a target="_blank" href="https://gitlab.com/esoterictemplates/project-status-badges#abandoned" xlink:href="https://gitlab.com/esoterictemplates/project-status-badges#abandoned">
+		<text x="199.625" y="17.5" textLength="83.25" class="bold">
+			ABANDONED
+		</text>
+	</a>
 
 	<metadata id="metadata">
 		<rdf:RDF>
