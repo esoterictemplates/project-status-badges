@@ -148,6 +148,7 @@
          rdf:about="">
         <dc:title>Project Status Badges Logo</dc:title>
         <dc:description>The logo of the Project Status Badges repository.</dc:description>
+        <dc:format>image/svg+xml</dc:format>
         <dc:subject>
           <rdf:Bag>
             <rdf:li>logo</rdf:li>

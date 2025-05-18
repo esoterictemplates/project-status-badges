@@ -47,6 +47,7 @@
 			<cc:Work rdf:about="">
 				<dc:title>Project Status Badge: 'Abandoned'</dc:title>
 				<dc:description>Project status badge for quickly and easily indicating that a project is marked as abandoned (incomplete) and won't be worked on anymore.</dc:description>
+				<dc:format>image/svg+xml</dc:format>
 				<dc:subject>
 					<rdf:Bag>
 						<rdf:li>abandon</rdf:li>
