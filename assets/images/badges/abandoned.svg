@@ -21,7 +21,7 @@
 	-->
 
 	<g shape-rendering="crispEdges">
-		<!-- Do not add rounded edges or else this badge will be incompatible with other Shields.io badges! -->
+		<!-- Do not add rounded edges or else this badge will look different to other Shields.io badges! -->
 		<rect width="146" height="28" fill="#555" />
 
 		<rect x="146" width="107.25" height="28" fill="#e05d44" />
