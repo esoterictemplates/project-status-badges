@@ -26,11 +26,11 @@
 		}
 
 		rect.key {
-			fill: #555
+			fill: #555;
 		}
 
 		rect.status {
-			fill: #dfb317
+			fill: #dfb317;
 		}
 
 		text {
