@@ -66,12 +66,13 @@ A project is work in progress if you may still update it in the future or you ar
 
 ## Verification
 
-The badges have been verified using the [W3C Markup Validation Service][markup-validator]. See the output for yourself:
+The [badges][badges] and [logo][logo] of this project have been verified using the [W3C Markup Validation Service][markup-validator]. See the output for yourself:
 
 - [Maintained][maintained-validation]
 - [Finished][finished-validation]
 - [Unfinished][unfinished-validation]
 - [Abandoned][abandoned-validation]
+- [Logo][logo-validation]
 
 ## License
 
@@ -103,11 +104,16 @@ The badges have been verified using the [W3C Markup Validation Service][markup-v
 [unfinished-validation]: https://validator.w3.org/check?uri=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%2F-%2Fraw%2Fmain%2Fassets%2Fimages%2Fbadges%2Funfinished.svg%3Fref_type%3Dheads&charset=%28detect+automatically%29&doctype=Inline&group=0&user-agent=W3C_Validator%2F1.3+
 [abandoned-validation]: https://validator.w3.org/check?uri=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%2F-%2Fraw%2Fmain%2Fassets%2Fimages%2Fbadges%2Fabandoned.svg%3Fref_type%3Dheads&charset=%28detect+automatically%29&doctype=Inline&group=0&user-agent=W3C_Validator%2F1.3+
 
+[logo-validation]: https://validator.w3.org/check?uri=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%2F-%2Fraw%2Fmain%2Fdocs%2Fassets%2Fimages%2Ficons%2Fbadges%2Flogo.svg%3Fref_type%3Dheads&charset=%28detect+automatically%29&doctype=Inline&group=0&user-agent=W3C_Validator%2F1.3+
+
 <!--- Files --->
 
 [license]: ./LICENSE
 
 [credit]: ./docs/CREDIT.md
+
+[badges]: ./assets/images/badges/
+[logo]: ./docs/assets/images/icons/badges/logo.svg
 
 <!--- Badges --->
 
