@@ -64,6 +64,15 @@ A project is work in progress if you may still update it in the future or you ar
 
 ![Project Status Badge: 'Abandoned'][abandoned]
 
+## Verification
+
+The badges have been verified using the [W3C Markup Validation Service][markup-validator]. See the output for yourself:
+
+- [Maintained][maintained-validation]
+- [Finished][finished-validation]
+- [Unfinished][unfinished-validation]
+- [Abandoned][abandoned-validation]
+
 ## License
 
 &copy; 2025 [Esoteric Enderman][author]
@@ -84,6 +93,15 @@ A project is work in progress if you may still update it in the future or you ar
 <!--- Links --->
 
 [cc]: https://creativecommons.org/
+
+<!-- Markup Validation Service -->
+
+[markup-validator]: https://validator.w3.org/
+
+[maintained-validation]: https://validator.w3.org/check?uri=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%2F-%2Fraw%2Fmain%2Fassets%2Fimages%2Fbadges%2Fmaintained.svg%3Fref_type%3Dheads&charset=%28detect+automatically%29&doctype=Inline&group=0
+[finished-validation]: https://validator.w3.org/check?uri=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%2F-%2Fraw%2Fmain%2Fassets%2Fimages%2Fbadges%2Ffinished.svg%3Fref_type%3Dheads&charset=%28detect+automatically%29&doctype=Inline&group=0&user-agent=W3C_Validator%2F1.3+
+[unfinished-validation]: https://validator.w3.org/check?uri=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%2F-%2Fraw%2Fmain%2Fassets%2Fimages%2Fbadges%2Funfinished.svg%3Fref_type%3Dheads&charset=%28detect+automatically%29&doctype=Inline&group=0&user-agent=W3C_Validator%2F1.3+
+[abandoned-validation]: https://validator.w3.org/check?uri=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%2F-%2Fraw%2Fmain%2Fassets%2Fimages%2Fbadges%2Fabandoned.svg%3Fref_type%3Dheads&charset=%28detect+automatically%29&doctype=Inline&group=0&user-agent=W3C_Validator%2F1.3+
 
 <!--- Files --->
 
