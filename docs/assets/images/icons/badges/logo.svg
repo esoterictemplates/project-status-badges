@@ -139,7 +139,7 @@
           id="status-text"
           x="116.35"
           y="131.7"
-          style="stroke-width:125">S</tspan></text>
+          style="stroke-width:125;font-weight:bold">S</tspan></text>
     </g>
   </a>
   <metadata
