@@ -4,8 +4,6 @@
    width="192"
    height="192"
    role="graphics-symbol"
-   aria-labelledby="title"
-   aria-describedby="description"
    viewBox="0 0 192 192"
    version="1.1"
    id="root"
@@ -22,10 +20,8 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:xlink="http://www.w3.org/1999/xlink">
-  <title
-     id="title">Project Status Badges Logo</title>
-  <desc
-     id="description">The logo of the Project Status Badges repository.</desc>
+  <title>Project Status Badges Logo</title>
+  <desc>The logo of the Project Status Badges repository.</desc>
 
   <!--
   Credit
@@ -70,7 +66,7 @@
      inkscape:current-layer="layer-1" />
   <defs
      id="definitions" />
-  <a target="_blank" href="https://gitlab.com/esoterictemplates/project-status-badges#project-status" xlink:href="https://gitlab.com/esoterictemplates/project-status-badges#project-status" aria-label="Project status system information link">
+  <a target="_blank" href="https://gitlab.com/esoterictemplates/project-status-badges#project-status" xlink:href="https://gitlab.com/esoterictemplates/project-status-badges#project-status">
     <g
       inkscape:label="Layer 1"
       inkscape:groupmode="layer"

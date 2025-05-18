@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink" width="236" height="28" viewBox="0 0 236 28" role="document" aria-labelledby="title" aria-describedby="description">
-	<title id="title">Project Status Badge: 'Finished'</title>
-	<desc id="description">A gray and green colored badge to indicate that a project is complete and not worked on anymore.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink" width="236" height="28" viewBox="0 0 236 28" role="document">
+	<title>Project Status Badge: 'Finished'</title>
+	<desc>A gray and green colored badge to indicate that a project is complete and not worked on anymore.</desc>
 
 	<!--
 	Credit
@@ -28,13 +28,13 @@
 	</g>
 
 	<g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="10">
-		<a target="_blank" href="https://gitlab.com/esoterictemplates/project-status-badges#project-status" xlink:href="https://gitlab.com/esoterictemplates/project-status-badges#project-status" aria-label="Project status system information link">
+		<a target="_blank" href="https://gitlab.com/esoterictemplates/project-status-badges#project-status" xlink:href="https://gitlab.com/esoterictemplates/project-status-badges#project-status">
 			<text x="73" y="17.5" textLength="122">
 				✅ PROJECT STATUS
 			</text>
 		</a>
 
-		<a target="_blank" href="https://gitlab.com/esoterictemplates/project-status-badges#finished" xlink:href="https://gitlab.com/esoterictemplates/project-status-badges#finished" aria-label="'Finished' project status information link">
+		<a target="_blank" href="https://gitlab.com/esoterictemplates/project-status-badges#finished" xlink:href="https://gitlab.com/esoterictemplates/project-status-badges#finished">
 			<text x="191" y="17.5" textLength="66" font-weight="bold">
 				FINISHED
 			</text>
