@@ -20,9 +20,10 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:xlink="http://www.w3.org/1999/xlink">
-  <title>Project Status Badges Logo</title>
-  <desc>The logo of the Project Status Badges repository.</desc>
-
+  <title
+     id="title">Project Status Badges Logo</title>
+  <desc
+     id="desc">The logo of the Project Status Badges repository.</desc>
   <!--
   Credit
   ======
