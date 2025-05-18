@@ -72,7 +72,7 @@ A project is **work in progress** if:
 
 ## Verification
 
-The [badges][badges] and [icon][icon] of this project have been verified using the [W3C Markup Validation Service][markup-validator]. See the output for yourself:
+The [badges][badges] and [icon][icon] of this project have been verified using the [W3C Markup Validation Service][markup-validator]. See the output for yourself here:
 
 - [Maintained][maintained-validation]
 - [Finished][finished-validation]
