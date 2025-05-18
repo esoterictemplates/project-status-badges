@@ -16,6 +16,8 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 Project status badges for quickly and easily indicating the [status](#project-status) of a project.
 
+![Project Status Badges logo][logo]
+
 ## Links
 
 - [GitLab][project-gitlab]
@@ -114,6 +116,7 @@ The [badges][badges] and [icon][icon] of this project have been verified using t
 
 [badges]: ./assets/images/badges/
 [icon]: ./docs/assets/images/icons/badges/icon.svg
+[logo]: ./docs/assets/images/icons/badges/logo.svg
 
 <!--- Badges --->
 
