@@ -74,7 +74,7 @@
       id="layer-1">
       <rect
         style="fill:teal;fill-opacity:1;stroke-width:15"
-        id="right-square"
+        id="status-text-background"
         width="96"
         height="192"
         ry="48"
@@ -83,21 +83,21 @@
         y="0" />
       <rect
         style="fill:teal;fill-opacity:1;stroke-width:10.6066"
-        id="right-square-back"
+        id="status-text-background-back"
         width="48"
         height="192"
         x="96"
         y="0" />
       <rect
          style="display:none;fill:teal;fill-opacity:1;stroke-width:15"
-         id="right-square-full"
+         id="status-text-background-full"
          width="96"
          height="192"
          x="96"
          y="0" />
       <rect
         style="fill:#555;fill-opacity:1;stroke-width:15"
-        id="left-square"
+        id="project-text-background"
         width="96"
         height="192"
         rx="48"
@@ -106,14 +106,14 @@
         y="0" />
       <rect
         style="fill:#555;fill-opacity:1;stroke-width:10.6066"
-        id="left-square-back"
+        id="project-text-background-back"
         width="48"
         height="192"
         x="48"
         y="0" />
       <rect
         style="display:none;fill:#555;fill-opacity:1;stroke-width:15"
-        id="left-square-full"
+        id="project-text-background-full"
         width="96"
         height="192"
         x="0"
