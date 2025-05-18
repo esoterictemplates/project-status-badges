@@ -8,8 +8,8 @@
    version="1.1"
    id="root"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="logo.svg"
-   inkscape:export-filename="logo.png"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="icon.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -182,7 +182,7 @@
           </cc:Agent>
         </dc:contributor>
         <dc:relation>https://shields.io/</dc:relation>
-        <dc:identifier>https://gitlab.com/esoterictemplates/project-status-badges/-/blob/main/docs/assets/images/icons/badges/logo.svg?ref_type=heads</dc:identifier>
+        <dc:identifier>https://gitlab.com/esoterictemplates/project-status-badges/-/blob/main/docs/assets/images/icons/badges/icon.svg?ref_type=heads</dc:identifier>
         <dc:rights>
           ISC License
 
