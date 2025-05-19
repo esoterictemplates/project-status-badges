@@ -25,6 +25,7 @@ Project status badges for quickly and easily indicating the [status](#project-st
 * [Codeberg][project-codeberg]
 * [Disroot][project-disroot]
 * [Sourcehut][project-sourcehut]
+* [pub.solar][project-pub.solar]
 * [Credit][credit]
 
 ## Project Status
@@ -108,6 +109,7 @@ The [badges][badges] and [icon][icon] of this project have been verified using t
 [project-codeberg]: https://codeberg.org/esoterictemplates/project-status-badges
 [project-disroot]: https://git.disroot.org/esoterictemplates/project-status-badges
 [project-sourcehut]: https://git.sr.ht/~esotericenderman/project-status-badges
+[project-pub.solar]: https://git.pub.solar/esoterictemplates/project-status-badges
 
 [author]: https://enderman.dev
 
