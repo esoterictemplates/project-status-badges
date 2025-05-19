@@ -28,6 +28,7 @@ Project status badges for quickly and easily indicating the [status](#project-st
 * [Sourcehut][project-sourcehut]
 * [〄.ai][project-sij.ai]
 * [pub.solar][project-pub.solar]
+* [repo.or.cz][project-repo.or.cz]
 * [Credit][credit]
 
 ## Project Status
@@ -114,6 +115,7 @@ The [badges][badges] and [icon][icon] of this project have been verified using t
 [project-sij.ai]: https://sij.ai/
 [project-sourcehut]: https://git.sr.ht/~esotericenderman/project-status-badges
 [project-pub.solar]: https://git.pub.solar/esoterictemplates/project-status-badges
+[project-repo.or.cz]: https://repo.or.cz/project-status-badges.git
 
 [author]: https://enderman.dev
 
