@@ -20,6 +20,7 @@ Project status badges for quickly and easily indicating the [status](#project-st
 
 * [GitLab][project-gitlab]
 * [GitHub][project-github]
+* [Gitea][project-gitea]
 * [Codeberg][project-codeberg]
 * [Sourcehut][project-sourcehut]
 * [Credit][credit]
@@ -100,6 +101,7 @@ The [badges][badges] and [icon][icon] of this project have been verified using t
 
 [project-gitlab]: https://gitlab.com/esoterictemplates/project-status-badges
 [project-github]: https://github.com/esoterictemplates/project-status-badges
+[project-gitea]: https://gitea.com/esoterictemplates/project-status-badges
 [project-codeberg]: https://codeberg.org/esoterictemplates/project-status-badges
 [project-sourcehut]: https://git.sr.ht/~esotericenderman/project-status-badges
 
