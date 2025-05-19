@@ -23,6 +23,7 @@ Project status badges for quickly and easily indicating the [status](#project-st
 * [Gitea][project-gitea]
 * [BitBucket][project-bitbucket]
 * [Codeberg][project-codeberg]
+* [Disroot][project-disroot]
 * [Sourcehut][project-sourcehut]
 * [Credit][credit]
 
@@ -105,6 +106,7 @@ The [badges][badges] and [icon][icon] of this project have been verified using t
 [project-gitea]: https://gitea.com/esoterictemplates/project-status-badges
 [project-bitbucket]: https://bitbucket.org/esotericenderman/project-status-badges/src/main/
 [project-codeberg]: https://codeberg.org/esoterictemplates/project-status-badges
+[project-disroot]: https://git.disroot.org/esoterictemplates/project-status-badge
 [project-sourcehut]: https://git.sr.ht/~esotericenderman/project-status-badges
 
 [author]: https://enderman.dev
