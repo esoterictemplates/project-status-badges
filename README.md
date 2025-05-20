@@ -113,7 +113,7 @@ The [badges][badges] and [icon][icon] of this project have been verified using t
 [project-codeberg]: https://codeberg.org/esoterictemplates/project-status-badges
 [project-disroot]: https://git.disroot.org/esoterictemplates/project-status-badges
 [project-sij.ai]: https://sij.ai/enderman/project-status-badges
-[project-sourcehut]: https://git.sr.ht/~esotericenderman/project-status-badges
+[project-sourcehut]: https://git.sr.ht/~enderman/project-status-badges
 [project-pub.solar]: https://git.pub.solar/esoterictemplates/project-status-badges
 [project-repo.or.cz]: https://repo.or.cz/project-status-badges.git
 
