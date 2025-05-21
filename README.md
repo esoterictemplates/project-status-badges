@@ -12,7 +12,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 <sup>By [Esoteric Enderman][author]</sup>
 
-[![Project Status Badge: 'Unfinished'][status]][project-status]
+[![Project Status Badge: 'Maintained'][status]][project-status]
 
 Project status badges for quickly and easily indicating the [status](#project-status) of a project.
 
@@ -151,7 +151,7 @@ The [badges][badges] and [icon][icon] of this project have been verified using t
 
 [project-status]: https://gitlab.com/esoterictemplates/project-status-badges#project-status
 
-[status]: ./assets/images/badges/unfinished.svg
+[status]: ./assets/images/badges/maintained.svg
 
 [maintained]: ./assets/images/badges/maintained.svg
 [finished]: ./assets/images/badges/finished.svg
