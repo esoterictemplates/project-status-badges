@@ -101,6 +101,10 @@ The [badges][badges] and [icon][icon] of this project have been verified using t
 
 [Project Status Badges][project] are licensed under the [ISC License][license].
 
+## Topics
+
+<sup>[svg](https://gitlab.com/explore/projects/topics/svg), [readme](https://gitlab.com/explore/projects/topics/readme), [image](https://gitlab.com/explore/projects/topics/image), [images](https://gitlab.com/explore/projects/topics/images), [badge](https://gitlab.com/explore/projects/topics/badge), [readme-badges](https://gitlab.com/explore/projects/topics/readme-badges), [badges](https://gitlab.com/explore/projects/topics/badges)</sup>
+
 <!--- Link aliases --->
 
 [project]: ./
