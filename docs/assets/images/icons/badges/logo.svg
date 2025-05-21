@@ -40,7 +40,7 @@
        inkscape:svg-dpi="96"
        width="114.7"
        height="12.7"
-       xlink:href="../../../../../assets/images/badges/maintained.svg"
+       xlink:href="./assets/images/badges/maintained.svg"
        id="maintained-badge"
        x="14.93769264221191"
        y="0" /><image
@@ -48,7 +48,7 @@
        inkscape:svg-dpi="96"
        width="107.5669555664062"
        height="12.7"
-       xlink:href="../../../../../assets/images/badges/finished.svg"
+       xlink:href="./assets/images/badges/finished.svg"
        id="finished-badge"
        x="22.07073402404785"
        y="12.7" /><image
@@ -56,7 +56,7 @@
        inkscape:svg-dpi="96"
        width="114.657356262207"
        height="12.7"
-       xlink:href="../../../../../assets/images/badges/unfinished.svg"
+       xlink:href="./assets/images/badges/unfinished.svg"
        id="unfinished-badge"
        x="14.98033237457275"
        y="25.4" /><image
@@ -64,7 +64,7 @@
        inkscape:svg-dpi="96"
        width="114.8919982910156"
        height="12.7"
-       xlink:href="../../../../../assets/images/badges/abandoned.svg"
+       xlink:href="./assets/images/badges/abandoned.svg"
        id="abandoned-badge"
        x="14.74569034576416"
        y="38.1" /><image
@@ -72,7 +72,7 @@
        inkscape:svg-dpi="96"
        width="50.8"
        height="50.8"
-       xlink:href="icon.svg"
+       xlink:href="./docs/assets/images/icons/project-status-badges/icon.svg"
        id="icon"
        x="0"
        y="0" /><path
