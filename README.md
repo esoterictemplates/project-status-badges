@@ -24,6 +24,7 @@ Project status badges for quickly and easily indicating the [status](#project-st
 * [git.gay][project-git.gay]
 * [BitBucket][project-bitbucket]
 * [Codeberg][project-codeberg]
+* [Codebase][project-codebase]
 * [Disroot][project-disroot]
 * [Sourcehut][project-sourcehut]
 * [〄.ai][project-sij.ai]
@@ -115,6 +116,7 @@ The [badges][badges] and [icon][icon] of this project have been verified using t
 [project-git.gay]: https://git.gay/esoterictemplates/project-status-badges
 [project-bitbucket]: https://bitbucket.org/esotericenderman/project-status-badges/src/main/
 [project-codeberg]: https://codeberg.org/esoterictemplates/project-status-badges
+[project-codebase]: https://enderman.codebasehq.com/projects/esoteric-templates/repositories/project-status-badges/tree/main
 [project-disroot]: https://git.disroot.org/esoterictemplates/project-status-badges
 [project-sij.ai]: https://sij.ai/enderman/project-status-badges
 [project-sourcehut]: https://git.sr.ht/~enderman/project-status-badges
