@@ -21,6 +21,7 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
 * [Codebase][project-codebase]
 * [Disroot][project-disroot]
 * [Sourcehut][project-sourcehut]
+* [Sourceforge][project-sourceforge]
 * [〄.ai][project-sij.ai]
 * [pub.solar][project-pub.solar]
 * [repo.or.cz][project-repo.or.cz]
@@ -118,6 +119,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 [project-disroot]: https://git.disroot.org/esoterictemplates/project-status-badges
 [project-sij.ai]: https://sij.ai/enderman/project-status-badges
 [project-sourcehut]: https://git.sr.ht/~enderman/project-status-badges
+[project-sourceforge]: https://sourceforge.net/projects/badges/
 [project-pub.solar]: https://git.pub.solar/esoterictemplates/project-status-badges
 [project-repo.or.cz]: https://repo.or.cz/project-status-badges.git
 
