@@ -10,6 +10,13 @@ Project Status Badges are a collection of [4 unique status badges][badges] that 
 
 The badges were derived from [Shields.io Badges][shields], a [CC0][shields-license-statement] project which provides badges as a service. This means that the [project status badges][badges] will be visually compatible with the [Shields.io Badges][shields] - so you can use both in your project's README.md file.
 
+## Features
+
+* [Maintained project status badge][maintained]
+* [Finished project status badge][finished]
+* [Unfinished project status badge][unfinished]
+* [Abandoned project status badge][abandoned]
+
 ## Links
 
 * [GitLab][project-gitlab]
