@@ -12,10 +12,10 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
 
 ## Features
 
-* [Maintained project status badge][maintained]
-* [Finished project status badge][finished]
-* [Unfinished project status badge][unfinished]
-* [Abandoned project status badge][abandoned]
+* [Project Status Badge: 'Maintained'][maintained]
+* [Project Status Badge: 'Finished'][finished]
+* [Project Status Badge: 'Unfinished'][unfinished]
+* [Project Status Badge: 'Abandoned'][abandoned]
 
 ## Links
 
