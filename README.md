@@ -14,7 +14,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 [![Project Status Badge: 'Unfinished'][status]](#unfinished)
 
-Project status badges for quickly and easily indicating the [status](#project-status) of a project.
+Badges for quickly and easily indicating the [status](#project-status) of a project.
 
 ## Links
 
