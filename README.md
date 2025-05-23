@@ -120,17 +120,17 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 [project-gitlab]: https://gitlab.com/esoterictemplates/project-status-badges
 [project-github]: https://github.com/esoterictemplates/project-status-badges
 [project-gitea]: https://gitea.com/esoterictemplates/project-status-badges
-[project-git.gay]: https://git.gay/esoterictemplates/project-status-badges
+[project-git.gay]: https://git.gay/templates/project-status-badges
 [project-bitbucket]: https://bitbucket.org/esotericenderman/project-status-badges/src/main/
 [project-codeberg]: https://codeberg.org/esoterictemplates/project-status-badges
 [project-codebase]: https://enderman.codebasehq.com/projects/esoteric-templates/repositories/project-status-badges/tree/main
-[project-disroot]: https://git.disroot.org/esoterictemplates/project-status-badges
+[project-disroot]: https://git.disroot.org/templates/project-status-badges
 [project-sij.ai]: https://sij.ai/enderman/project-status-badges
 [project-launchpad]: https://launchpad.net/badges
 [project-sourcehut]: https://git.sr.ht/~enderman/project-status-badges
 [project-sourceforge]: https://sourceforge.net/projects/badges/
-[project-pub.solar]: https://git.pub.solar/esoterictemplates/project-status-badges
-[project-repo.or.cz]: https://repo.or.cz/project-status-badges.git
+[project-pub.solar]: https://git.pub.solar/templates/project-status-badges
+[project-repo.or.cz]: https://repo.or.cz/badges.git
 
 [author]: https://enderman.dev
 
