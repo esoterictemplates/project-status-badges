@@ -29,6 +29,7 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
 * [Disroot][project-disroot]
 * [Sourcehut][project-sourcehut]
 * [Sourceforge][project-sourceforge]
+* [RocketGit][project-rocketgit]
 * [〄.ai][project-sij.ai]
 * [Launchpad][project-launchpad]
 * [pub.solar][project-pub.solar]
@@ -129,6 +130,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 [project-launchpad]: https://launchpad.net/badges
 [project-sourcehut]: https://git.sr.ht/~enderman/project-status-badges
 [project-sourceforge]: https://sourceforge.net/projects/badges/
+[project-rocketgit]: https://rocketgit.com/user/enderman/project-status-badges
 [project-pub.solar]: https://git.pub.solar/templates/project-status-badges
 [project-repo.or.cz]: https://repo.or.cz/badges.git
 
