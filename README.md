@@ -141,7 +141,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 [shields]: https://shields.io/badges
 [shields-license-statement]: https://github.com/badges/shields/tree/29e39351ae557d536580d90521c390514b867e19?tab=readme-ov-file#license
 
-<!-- Markup Validation Service -->
+<!--- Markup Validation Service --->
 
 [markup-validator]: https://validator.w3.org/
 
