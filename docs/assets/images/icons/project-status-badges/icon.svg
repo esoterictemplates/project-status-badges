@@ -67,7 +67,7 @@
      inkscape:current-layer="layer-1" />
   <defs
      id="definitions" />
-  <a target="_blank" href="https://gitlab.com/esoterictemplates/project-status-badges#project-status" xlink:href="https://gitlab.com/esoterictemplates/project-status-badges#project-status" id="project-status-information-link">
+  <a target="_blank" href="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#project-status" xlink:href="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#project-status" id="project-status-information-link">
     <g
       inkscape:label="Layer 1"
       inkscape:groupmode="layer"
@@ -166,7 +166,7 @@
           </cc:Agent>
         </dc:contributor>
         <dc:relation>https://shields.io/</dc:relation>
-        <dc:identifier>https://gitlab.com/esoterictemplates/project-status-badges/-/blob/main/docs/assets/images/icons/project-status-badges/icon.svg?ref_type=heads</dc:identifier>
+        <dc:identifier>https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/blob/main/docs/assets/images/icons/project-status-badges/icon.svg?ref_type=heads</dc:identifier>
         <dc:rights>
           ISC License
 
@@ -184,7 +184,7 @@
           </cc:Agent>
         </dc:publisher>
         <cc:license
-           rdf:resource="https://gitlab.com/esoterictemplates/project-status-badges/-/blob/main/LICENSE?ref_type=heads" />
+           rdf:resource="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/blob/main/LICENSE?ref_type=heads" />
       </cc:Work>
     </rdf:RDF>
   </metadata>

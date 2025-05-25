@@ -52,13 +52,13 @@
 	<rect x="146.25" width="110.5" height="28" class="status" />
 
 	<!-- The text here may or may not be perfectly centered. Regardless, it's best to leave everything as is, so that it's aligned with the text of other Shields.io badges. -->
-	<a target="_blank" href="https://gitlab.com/esoterictemplates/project-status-badges#project-status" xlink:href="https://gitlab.com/esoterictemplates/project-status-badges#project-status">
+	<a target="_blank" href="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#project-status" xlink:href="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#project-status">
 		<text x="73.125" y="17.5" textLength="122.25">
 				🔄 PROJECT STATUS
 		</text>
 	</a>
 
-	<a target="_blank" href="https://gitlab.com/esoterictemplates/project-status-badges#maintained" xlink:href="https://gitlab.com/esoterictemplates/project-status-badges#maintained">
+	<a target="_blank" href="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#maintained" xlink:href="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#maintained">
 		<text x="201.5" y="17.5" textLength="86.5" class="bold">
 			MAINTAINED
 		</text>
@@ -104,7 +104,7 @@
 					</cc:Agent>
 				</dc:contributor>
 				<dc:relation>https://shields.io/</dc:relation>
-				<dc:identifier>https://gitlab.com/esoterictemplates/project-status-badges/-/blob/main/assets/images/badges/maintained.svg?ref_type=heads</dc:identifier>
+				<dc:identifier>https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/blob/main/assets/images/badges/maintained.svg?ref_type=heads</dc:identifier>
 				<dc:rights>
 					ISC License
 
@@ -121,7 +121,7 @@
 						<cc:homepage rdf:resource="https://enderman.dev/" />
 					</cc:Agent>
 				</dc:publisher>
-				<cc:license rdf:resource="https://gitlab.com/esoterictemplates/project-status-badges/-/blob/main/LICENSE?ref_type=heads" />
+				<cc:license rdf:resource="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/blob/main/LICENSE?ref_type=heads" />
 				<dc:source>https://img.shields.io/badge/%F0%9F%94%84%20Project%20status-Maintained-teal?style=for-the-badge&amp;link=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%23project-status&amp;link=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%23maintained</dc:source>
 			</cc:Work>
 		</rdf:RDF>
