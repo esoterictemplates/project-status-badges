@@ -2,7 +2,7 @@
 
 <sup>By [Esoteric Enderman][author]</sup>
 
-[![Project Status Badge: 'Unfinished'][status]](#unfinished)
+[![Project status: unfinished][status]](#unfinished)
 
 Badges for quickly and easily indicating the [status](#project-status) of a project.
 
