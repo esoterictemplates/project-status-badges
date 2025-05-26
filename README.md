@@ -123,7 +123,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 [project-gitlab]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges
 [project-github]: https://github.com/esoterictemplates/project-status-badges
 [project-gitea]: https://gitea.com/esoterictemplates/project-status-badges
-[project-gitgud]: https://gitgud.io/templates/project-status-badges
+[project-gitgud]: https://gitgud.io/templates/assets/images/symbols/project-status-badges
 [project-git.gay]: https://git.gay/templates/project-status-badges
 [project-bitbucket]: https://bitbucket.org/esotericenderman/project-status-badges/src/main/
 [project-codeberg]: https://codeberg.org/esoterictemplates/project-status-badges
