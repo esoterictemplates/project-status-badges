@@ -68,7 +68,7 @@
 		<rdf:RDF>
 			<cc:Work rdf:about="">
 				<dc:title>Project Status Badge: 'Unfinished'</dc:title>
-				<dc:description>Project status badge for quickly and easily indicating that a project is marked as unfinished (incomplete) and will be worked on in the future.</dc:description>
+				<dc:description>A gray and yellow colored badge to indicate that a project is not finished and is still work in progress.</dc:description>
 				<dc:format>image/svg+xml</dc:format>
 				<dc:subject>
 					<rdf:Bag>

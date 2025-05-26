@@ -68,7 +68,7 @@
 		<rdf:RDF>
 			<cc:Work rdf:about="">
 				<dc:title>Project Status Badge: 'Finished'</dc:title>
-				<dc:description>Project status badge for quickly and easily indicating that a project is marked as finished (stable and complete) and won't be worked on anymore.</dc:description>
+				<dc:description>A gray and green colored badge to indicate that a project is complete and not worked on anymore.</dc:description>
 				<dc:format>image/svg+xml</dc:format>
 				<dc:subject>
 					<rdf:Bag>

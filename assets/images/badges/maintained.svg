@@ -68,7 +68,7 @@
 		<rdf:RDF>
 			<cc:Work rdf:about="">
 				<dc:title>Project Status Badge: 'Maintained'</dc:title>
-				<dc:description>Project status badge for quickly and easily indicating that a project is marked as maintained (stable and complete) and will be worked on in the future.</dc:description>
+				<dc:description>A gray and teal colored badge to indicate that a project is maintained and may be updated in the future.</dc:description>
 				<dc:format>image/svg+xml</dc:format>
 				<dc:subject>
 					<rdf:Bag>
