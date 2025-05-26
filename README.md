@@ -28,6 +28,7 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
 * [Codeberg][project-codeberg]
 * [Codebase][project-codebase]
 * [Disroot][project-disroot]
+* [Framagit][project-framagit]
 * [Sourcehut][project-sourcehut]
 * [Sourceforge][project-sourceforge]
 * [RocketGit][project-rocketgit]
@@ -128,6 +129,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 [project-codeberg]: https://codeberg.org/esoterictemplates/project-status-badges
 [project-codebase]: https://enderman.codebasehq.com/projects/esoteric-templates/repositories/project-status-badges/tree/main
 [project-disroot]: https://git.disroot.org/templates/project-status-badges
+[project-framagit]: https://framagit.org/esoterictemplates/assets/images/symbols/project-status-badges
 [project-sij.ai]: https://sij.ai/enderman/project-status-badges
 [project-launchpad]: https://launchpad.net/badges
 [project-sourcehut]: https://git.sr.ht/~enderman/project-status-badges
