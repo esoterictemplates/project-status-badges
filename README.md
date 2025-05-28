@@ -24,7 +24,7 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
 * [Gitea][project-gitea]
 * [GitGud][project-gitgud]
 * [git.gay][project-git.gay]
-* [BitBucket][project-bitbucket]
+* [Bitbucket][project-bitbucket]
 * [Codeberg][project-codeberg]
 * [Codebase][project-codebase]
 * [Disroot][project-disroot]
