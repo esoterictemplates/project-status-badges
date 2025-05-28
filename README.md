@@ -27,7 +27,7 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
 * [Bitbucket][project-bitbucket]
 * [Codeberg][project-codeberg]
 * [Disroot][project-disroot]
-* [Framagit][project-framagit]
+* [FramaGit][project-framagit]
 * [Sourcehut][project-sourcehut]
 * [Sourceforge][project-sourceforge]
 * [RocketGit][project-rocketgit]
