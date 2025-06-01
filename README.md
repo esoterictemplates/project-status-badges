@@ -34,6 +34,7 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
 * [Launchpad][project-launchpad]
 * [pub.solar][project-pub.solar]
 * [repo.or.cz][project-repo.or.cz]
+* [HelixTeamHub][project-helixteamhub]
 * [Credit][credit]
 
 ## Project Status
@@ -133,6 +134,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 [project-sourceforge]: https://sourceforge.net/projects/badges/
 [project-rocketgit]: https://rocketgit.com/user/enderman/project-status-badges
 [project-pub.solar]: https://git.pub.solar/templates/project-status-badges
+[project-helixteamhub]: https://helixteamhub.cloud/enderman/projects/templates/repositories/project-status-badges/tree/main
 [project-repo.or.cz]: https://repo.or.cz/badges.git
 
 [author]: https://enderman.dev
