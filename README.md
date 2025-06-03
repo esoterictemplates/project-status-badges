@@ -176,3 +176,14 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 [finished]: ./assets/images/badges/finished.svg
 [unfinished]: ./assets/images/badges/unfinished.svg
 [abandoned]: ./assets/images/badges/abandoned.svg
+
+<!--
+Credit
+======
+
+The ISC License <https://www.isc.org/licenses/>
+===============
+Copyright (c) 1995-2003 Internet Software Consortium <https://www.isc.org/>
+Copyright (c) 2004-2013 Internet Systems Consortium Incorporated (ISC) <https://www.isc.org/>
+Licensed "like SPDX: 0BSD" <https://www.isc.org/licenses/>
+-->
