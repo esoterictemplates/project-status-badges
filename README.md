@@ -25,6 +25,7 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
 * [GitGud][project-gitgud]
 * [git.gay][project-git.gay]
 * [Bitbucket][project-bitbucket]
+* [Buddy][project-buddy]
 * [Codeberg][project-codeberg]
 * [Disroot][project-disroot]
 * [FramaGit][project-framagit]
@@ -125,6 +126,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 [project-gitgud]: https://gitgud.io/templates/assets/images/symbols/project-status-badges
 [project-git.gay]: https://git.gay/templates/project-status-badges
 [project-bitbucket]: https://bitbucket.org/esotericenderman/project-status-badges/src/main/
+[project-buddy]: https://eu.buddy.works/enderman/project-status-badges/repository/clone
 [project-codeberg]: https://codeberg.org/esoterictemplates/project-status-badges
 [project-disroot]: https://git.disroot.org/templates/project-status-badges
 [project-framagit]: https://framagit.org/esoterictemplates/assets/images/symbols/project-status-badges
