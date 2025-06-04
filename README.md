@@ -23,6 +23,7 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
 * [GitHub][project-github]
 * [Gitea][project-gitea]
 * [GitGud][project-gitgud]
+* [GitFlic][project-gitflic]
 * [git.gay][project-git.gay]
 * [Bitbucket][project-bitbucket]
 * [Buddy][project-buddy]
@@ -124,6 +125,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 [project-github]: https://github.com/esoterictemplates/project-status-badges
 [project-gitea]: https://gitea.com/esoterictemplates/project-status-badges
 [project-gitgud]: https://gitgud.io/templates/assets/images/symbols/project-status-badges
+[project-gitflic]: https://gitflic.ru/project/esoterictemplates/project-status-badges
 [project-git.gay]: https://git.gay/templates/project-status-badges
 [project-bitbucket]: https://bitbucket.org/esotericenderman/project-status-badges/src/main/
 [project-buddy]: https://eu.buddy.works/enderman/project-status-badges
