@@ -137,7 +137,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 [project-launchpad]: https://launchpad.net/badges
 [project-sourcehut]: https://git.sr.ht/~enderman/project-status-badges
 [project-sourceforge]: https://sourceforge.net/projects/badges/
-[project-tangled]: https://tangled.sh/@esotericenderman.bsky.social/project-status-badges
+[project-tangled]: https://tangled.sh/@enderman.dev/project-status-badges
 [project-rocketgit]: https://rocketgit.com/user/enderman/project-status-badges
 [project-pub.solar]: https://git.pub.solar/templates/project-status-badges
 [project-helixteamhub]: https://helixteamhub.cloud/enderman/projects/templates/repositories/project-status-badges/tree/main
