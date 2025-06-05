@@ -31,7 +31,7 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
 * [Disroot][project-disroot]
 * [FramaGit][project-framagit]
 * [Sourceforge][project-sourceforge]
-* [Tangled][project-tangled]
+* [tangled][project-tangled]
 * [RocketGit][project-rocketgit]
 * [〄.ai][project-sij.ai]
 * [Launchpad][project-launchpad]
