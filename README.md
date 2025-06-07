@@ -38,6 +38,7 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
 * [pub.solar][project-pub.solar]
 * [repo.or.cz][project-repo.or.cz]
 * [HelixTeamHub][project-helixteamhub]
+* [GForge](https://next.gforge.com/#/project/proj-stat-badge)
 * [Credit][credit]
 
 ## Project Status
