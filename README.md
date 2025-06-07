@@ -38,7 +38,6 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
 * [pub.solar][project-pub.solar]
 * [repo.or.cz][project-repo.or.cz]
 * [HelixTeamHub][project-helixteamhub]
-* [GForge][project-gforge]
 * [Credit][credit]
 
 ## Project Status
@@ -142,7 +141,6 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 [project-rocketgit]: https://rocketgit.com/user/enderman/status-badges
 [project-pub.solar]: https://git.pub.solar/templates/project-status-badges
 [project-helixteamhub]: https://helixteamhub.cloud/enderman/projects/templates/repositories/project-status-badges
-[project-gforge]: https://next.gforge.com/#/project/proj-stat-badge
 [project-repo.or.cz]: https://repo.or.cz/badges.git
 
 [author]: https://enderman.dev
