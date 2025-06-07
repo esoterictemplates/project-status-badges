@@ -30,7 +30,7 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
 * [Codeberg][project-codeberg]
 * [Disroot][project-disroot]
 * [FramaGit][project-framagit]
-* [Sourceforge][project-sourceforge]
+* [SourceForge][project-sourceforge]
 * [tangled][project-tangled]
 * [RocketGit][project-rocketgit]
 * [〄.ai][project-sij.ai]
