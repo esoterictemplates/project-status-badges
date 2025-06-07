@@ -32,7 +32,6 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
 * [FramaGit][project-framagit]
 * [SourceForge][project-sourceforge]
 * [tangled][project-tangled]
-* [RocketGit][project-rocketgit]
 * [〄.ai][project-sij.ai]
 * [Launchpad][project-launchpad]
 * [pub.solar][project-pub.solar]
@@ -138,7 +137,6 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 [project-sourcehut]: https://git.sr.ht/~enderman/project-status-badges
 [project-sourceforge]: https://sourceforge.net/projects/badges/
 [project-tangled]: https://tangled.sh/@enderman.dev/project-status-badges
-[project-rocketgit]: https://rocketgit.com/user/enderman/status-badges
 [project-pub.solar]: https://git.pub.solar/templates/project-status-badges
 [project-helixteamhub]: https://helixteamhub.cloud/enderman/projects/templates/repositories/project-status-badges
 [project-repo.or.cz]: https://repo.or.cz/badges.git
