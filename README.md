@@ -29,6 +29,7 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
 * [Buddy][project-buddy]
 * [Codeberg][project-codeberg]
 * [Disroot][project-disroot]
+* [Moe's Git][project-moe-git]
 * [FramaGit][project-framagit]
 * [SourceForge][project-sourceforge]
 * [tangled][project-tangled]
@@ -131,6 +132,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 [project-buddy]: https://eu.buddy.works/enderman/project-status-badges
 [project-codeberg]: https://codeberg.org/esoterictemplates/project-status-badges
 [project-disroot]: https://git.disroot.org/templates/project-status-badges
+[project-moe-git]: https://git.moe.team/esoterictemplates/project-status-badges
 [project-framagit]: https://framagit.org/esoterictemplates/assets/images/symbols/project-status-badges
 [project-sij.ai]: https://sij.ai/enderman/project-status-badges
 [project-launchpad]: https://launchpad.net/badges
