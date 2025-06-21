@@ -19,6 +19,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 ### Files
 
 * [LICENSE][isc-license-local] template from [isc.org][isc-license]
+* [README.md][isc-license-readme] contains the [ISC License][isc-license].
 
 ## [Creative Commons][cc] [Icons][cc-icons]
 
@@ -61,7 +62,9 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 <!--- ISC License --->
 
 [isc-license]: https://www.isc.org/licenses/
+
 [isc-license-local]: ../LICENSE
+[isc-license-readme]: ../README.md#license
 
 [isc-license-license-statement]: https://www.isc.org/licenses/
 [isc-license-license]: https://www.isc.org/licenses/
