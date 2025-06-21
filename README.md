@@ -55,6 +55,9 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
    [project-status]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#CURRENT_PROJECT_STATUS
    ```
 
+   > [!WARNING]
+   > If this repository ever goes offline, links to the badges will stop working!
+
 ## Links
 
 * [GitLab][project-gitlab]
