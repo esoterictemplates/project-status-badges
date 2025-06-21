@@ -17,6 +17,44 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
 * [Project Status Badge: 'Unfinished'][unfinished]
 * [Project Status Badge: 'Abandoned'][abandoned]
 
+## Usage
+
+### Copying The Badge (Recommended)
+
+1. Copy-paste the badge(s) you want to use into your project. To keep things organised you can put the badge(s) in a folder such as `assets/images/badges`.
+2. Add the following text to your `README.md` file, and replace `CURRENT_PROJECT_STATUS` with the lowercase project status you want to use:
+   ```markdown
+   [![Project status: CURRENT_PROJECT_STATUS](./assets/images/badges/CURRENT_PROJECT_STATUS.svg)](https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#CURRENT_PROJECT_STATUS)
+   ```
+
+   Alternatively, you can use link aliases to keep things short and organised.
+
+   ```markdown
+   [![Project status: CURRENT_PROJECT_STATUS][status]][project-status]
+   
+   [status]: ./assets/images/badges/CURRENT_PROJECT_STATUS.svg
+   [project-status]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#CURRENT_PROJECT_STATUS
+   ```
+
+   > [!NOTE]
+   > If you put your badge into a different folder or named the file differently, you will need to adjust the file path so that it leads to the correct location.
+
+### Linking To This Repository
+
+1. Add the following text to your `README.md` file, again replacing `CURRENT_PROJECT_STATUS` with the lowercase project status you want to use:
+   ```markdown
+   [![Project status: CURRENT_PROJECT_STATUS](https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/master/assets/images/badges/CURRENT_PROJECT_STATUS.svg?ref_type=heads)](https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#CURRENT_PROJECT_STATUS)
+   ```
+
+   Alternatively, you can use link aliases to keep things short and organised.
+
+   ```markdown
+   [![Project status: CURRENT_PROJECT_STATUS][status]][project-status]
+   
+   [status]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/master/assets/images/badges/CURRENT_PROJECT_STATUS.svg?ref_type=heads
+   [project-status]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#CURRENT_PROJECT_STATUS
+   ```
+
 ## Links
 
 * [GitLab][project-gitlab]
