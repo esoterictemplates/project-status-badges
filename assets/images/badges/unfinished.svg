@@ -101,7 +101,7 @@
 					</cc:Agent>
 				</dc:contributor>
 				<dc:relation>https://shields.io/</dc:relation>
-				<dc:identifier>https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/blob/master/assets/images/badges/unfinished.svg?ref_type=heads</dc:identifier>
+				<dc:identifier>https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/master/assets/images/badges/unfinished.svg?ref_type=heads</dc:identifier>
 				<dc:rights>
 					ISC License
 
@@ -118,7 +118,7 @@
 						<cc:homepage rdf:resource="https://enderman.dev/" />
 					</cc:Agent>
 				</dc:publisher>
-				<cc:license rdf:resource="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/blob/master/LICENSE?ref_type=heads" />
+				<cc:license rdf:resource="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/master/LICENSE?ref_type=heads" />
 				<dc:source>https://img.shields.io/badge/%F0%9F%9A%A7%20Project%20status-Unfinished-yellow?style=for-the-badge&amp;link=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%23project-status&amp;link=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%23unfinished</dc:source>
 			</cc:Work>
 		</rdf:RDF>

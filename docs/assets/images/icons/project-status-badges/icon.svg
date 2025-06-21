@@ -166,7 +166,7 @@
           </cc:Agent>
         </dc:contributor>
         <dc:relation>https://shields.io/</dc:relation>
-        <dc:identifier>https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/blob/master/docs/assets/images/icons/project-status-badges/icon.svg?ref_type=heads</dc:identifier>
+        <dc:identifier>https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/master/docs/assets/images/icons/project-status-badges/icon.svg?ref_type=heads</dc:identifier>
         <dc:rights>
           ISC License
 
@@ -184,7 +184,7 @@
           </cc:Agent>
         </dc:publisher>
         <cc:license
-           rdf:resource="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/blob/master/LICENSE?ref_type=heads" />
+           rdf:resource="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/master/LICENSE?ref_type=heads" />
       </cc:Work>
     </rdf:RDF>
   </metadata>
