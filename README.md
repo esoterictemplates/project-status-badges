@@ -6,9 +6,9 @@
 
 Badges for quickly and easily indicating the [status](#project-status) of a project.
 
-Project Status Badges are a collection of [4 unique status badges][badges] that you can use to indicate the [development status](#project-status) of your project. For example, you can put them in your project's README.md file.
+Project Status Badges are a collection of [unique status badges][badges] that you can use to indicate the [development status](#project-status) of your project. For example, you can put them in your project's README.md file.
 
-The badges were derived from [Shields.io Badges][shields], a [CC0][shields-license-statement] project which provides badges as a service. This means that the [project status badges][badges] will be visually compatible with the [Shields.io Badges][shields] - so you can use both in your project's README.md file.
+The badges were derived from [Shields.io Badges][shields], a [CC0][shields-license-statement] project which provides badges as a service. This means that the [project status badges][badges] will be visually compatible with the [Shields.io Badges][shields] - so you can use both in your project.
 
 ## Features
 
