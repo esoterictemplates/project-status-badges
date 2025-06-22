@@ -6,7 +6,7 @@
 
 Badges for quickly and easily indicating the [status](#project-status) of a project.
 
-Project Status Badges are a collection of [unique status badges][badges] that you can use to indicate the [development status](#project-status) of your project. For example, you can put them in your project's README.md file.
+Project Status Badges are a collection of [unique status badges][badges] that you can use to indicate the [development status](#project-status) of your project. For example, you can put them in your project's `README.md` file.
 
 The badges were derived from [Shields.io Badges][shields], a [CC0][shields-license-statement] project which provides badges as a service. This means that the [project status badges][badges] will be visually compatible with the [Shields.io Badges][shields] - so you can use both in your project.
 
@@ -19,10 +19,12 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
 
 ## Usage
 
-### Copying The Badge (Recommended)
+### Markdown
+
+#### Copying The Badge (Recommended)
 
 1. Copy-paste the badge(s) you want to use into your project. To keep things organised you can put the badge(s) in a folder such as `assets/images/badges`.
-2. Add the following text to your `README.md` file:
+2. Add the following text to your file:
    ```markdown
    [![Project status: CURRENT_PROJECT_STATUS](./assets/images/badges/CURRENT_PROJECT_STATUS.svg)](https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/tree/DOCUMENTATION_VERSION#CURRENT_PROJECT_STATUS)
    ```
@@ -43,9 +45,9 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
    > [!NOTE]
    > If you put your badge into a different folder or named the file differently, you will need to adjust the file path so that it leads to the correct location.
 
-### Linking To This Repository
+#### Linking To This Repository
 
-1. Add the following text to your `README.md` file:
+1. Add the following text to your file:
    ```markdown
    [![Project status: CURRENT_PROJECT_STATUS](https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/VERSION/assets/images/badges/CURRENT_PROJECT_STATUS.svg)](https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/tree/DOCUMENTATION_VERSION#CURRENT_PROJECT_STATUS)
    ```
