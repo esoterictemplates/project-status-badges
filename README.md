@@ -65,7 +65,7 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
    * `DOCUMENTATION_VERSION` with the [documentation version](#versions) you want to use. You may want to use `master` instead, which will link to the most up-to-date explanation of the project status.
 
    > [!WARNING]
-   > If this repository ever goes offline, links to the badges will stop working!
+   > If this repository ever goes offline, links to the badges will stop working! In that case, images will no longer load if you [link to this repository](#linking-to-this-repository).
 
 ## Versions
 
