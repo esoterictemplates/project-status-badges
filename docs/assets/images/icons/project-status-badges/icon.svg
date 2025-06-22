@@ -186,6 +186,7 @@
         </dc:publisher>
         <cc:license
            rdf:resource="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/master/LICENSE?ref_type=heads" />
+        <dc:license>https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/master/LICENSE</dc:license>
       </cc:Work>
     </rdf:RDF>
   </metadata>

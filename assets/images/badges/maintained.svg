@@ -123,6 +123,7 @@
 					</cc:Agent>
 				</dc:publisher>
 				<cc:license rdf:resource="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/master/LICENSE?ref_type=heads" />
+				<dc:license>https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/master/LICENSE</dc:license>
 				<dc:source>https://img.shields.io/badge/%F0%9F%94%84%20Project%20status-Maintained-teal?style=for-the-badge&amp;link=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%23project-status&amp;link=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%23maintained</dc:source>
 			</cc:Work>
 		</rdf:RDF>
