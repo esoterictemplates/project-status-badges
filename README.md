@@ -31,7 +31,7 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
 
    ```markdown
    [![Project status: CURRENT_PROJECT_STATUS][status]][project-status]
-   
+
    [status]: ./assets/images/badges/CURRENT_PROJECT_STATUS.svg
    [project-status]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/tree/VERSION#CURRENT_PROJECT_STATUS
    ```
@@ -54,7 +54,7 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
 
    ```markdown
    [![Project status: CURRENT_PROJECT_STATUS][status]][project-status]
-   
+
    [status]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/VERSION/assets/images/badges/CURRENT_PROJECT_STATUS.svg
    [project-status]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/tree/VERSION#CURRENT_PROJECT_STATUS
    ```
