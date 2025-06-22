@@ -105,6 +105,12 @@
 				</dc:contributor>
 				<dc:relation>https://shields.io/</dc:relation>
 				<dc:identifier>https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/master/assets/images/badges/maintained.svg?ref_type=heads</dc:identifier>
+				<dc:rightsHolder>
+					<cc:Agent>
+						<dc:title>Esoteric Enderman</dc:title>
+						<cc:homepage rdf:resource="https://enderman.dev/"/>
+					</cc:Agent>
+				</dc:rightsHolder>
 				<dc:rights>
 					ISC License
 
