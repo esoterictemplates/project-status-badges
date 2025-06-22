@@ -158,13 +158,23 @@ A project is **work in progress** if:
 
 ## Verification
 
-The [badges][badges] and [icon][icon] of this project have been verified using the [W3C Markup Validation Service][markup-validator]. See the output for yourself here:
+The [badges][badges] and [icon][icon] of this project have been verified using the [W3C Markup Validation Service][markup-validator] and the [W3C RDF Validation Service][rdf-validator]. See the output for yourself here:
+
+### Markup Validation
 
 * [Maintained][maintained-validation]
 * [Finished][finished-validation]
 * [Unfinished][unfinished-validation]
 * [Abandoned][abandoned-validation]
 * [Icon][icon-validation]
+
+### RDF Validation
+
+* [Maintained][maintained-rdf-validation]
+* [Finished][finished-rdf-validation]
+* [Unfinished][unfinished-rdf-validation]
+* [Abandoned][abandoned-rdf-validation]
+* [Icon][icon-rdf-validation]
 
 ## License
 
@@ -219,6 +229,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 <!--- Markup Validation Service --->
 
 [markup-validator]: https://validator.w3.org/
+[rdf-validator]: https://www.w3.org/RDF/Validator/
 
 [maintained-validation]: https://validator.w3.org/check?uri=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmaster%2Fassets%2Fimages%2Fbadges%2Fmaintained.svg%3Fref_type%3Dheads&charset=%28detect+automatically%29&doctype=Inline&group=0
 [finished-validation]: https://validator.w3.org/check?uri=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmaster%2Fassets%2Fimages%2Fbadges%2Ffinished.svg%3Fref_type%3Dheads&charset=%28detect+automatically%29&doctype=Inline&group=0&user-agent=W3C_Validator%2F1.3+
@@ -226,6 +237,14 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 [abandoned-validation]: https://validator.w3.org/check?uri=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmaster%2Fassets%2Fimages%2Fbadges%2Fabandoned.svg%3Fref_type%3Dheads&charset=%28detect+automatically%29&doctype=Inline&group=0&user-agent=W3C_Validator%2F1.3+
 
 [icon-validation]: https://validator.w3.org/check?uri=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmaster%2Fdocs%2Fassets%2Fimages%2Ficons%2Fproject-status-badges%2Ficon.svg%3Fref_type%3Dheads&charset=%28detect+automatically%29&doctype=Inline&group=0&user-agent=W3C_Validator%2F1.3+
+
+
+[maintained-rdf-validation]: https://www.w3.org/RDF/Validator/rdfval?URI=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmaster%2Fassets%2Fimages%2Fbadges%2Fmaintained.svg%3Fref_type%3Dheads&PARSE=Parse+URI%3A+&TRIPLES_AND_GRAPH=PRINT_TRIPLES&FORMAT=PNG_EMBED
+[finished-rdf-validation]: https://www.w3.org/RDF/Validator/rdfval?URI=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmaster%2Fassets%2Fimages%2Fbadges%2Ffinished.svg%3Fref_type%3Dheads&PARSE=Parse+URI%3A+&TRIPLES_AND_GRAPH=PRINT_TRIPLES&FORMAT=PNG_EMBED
+[unfinished-rdf-validation]: https://www.w3.org/RDF/Validator/rdfval?URI=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmaster%2Fassets%2Fimages%2Fbadges%2Funfinished.svg%3Fref_type%3Dheads&PARSE=Parse+URI%3A+&TRIPLES_AND_GRAPH=PRINT_TRIPLES&FORMAT=PNG_EMBED
+[abandoned-rdf-validation]: https://www.w3.org/RDF/Validator/rdfval?URI=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmaster%2Fassets%2Fimages%2Fbadges%2Fabandoned.svg%3Fref_type%3Dheads&PARSE=Parse+URI%3A+&TRIPLES_AND_GRAPH=PRINT_TRIPLES&FORMAT=PNG_EMBED
+
+[icon-rdf-validation]: https://www.w3.org/RDF/Validator/rdfval?URI=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmaster%2Fdocs%2Fassets%2Fimages%2Ficons%2Fproject-status-badges%2Ficon.svg%3Fref_type%3Dheads&PARSE=Parse+URI%3A+&TRIPLES_AND_GRAPH=PRINT_TRIPLES&FORMAT=PNG_EMBED
 
 <!--- Files --->
 
