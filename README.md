@@ -22,9 +22,9 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
 ### Copying The Badge (Recommended)
 
 1. Copy-paste the badge(s) you want to use into your project. To keep things organised you can put the badge(s) in a folder such as `assets/images/badges`.
-2. Add the following text to your `README.md` file, and replace `CURRENT_PROJECT_STATUS` with the lowercase project status you want to use:
+2. Add the following text to your `README.md` file:
    ```markdown
-   [![Project status: CURRENT_PROJECT_STATUS](./assets/images/badges/CURRENT_PROJECT_STATUS.svg)](https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#CURRENT_PROJECT_STATUS)
+   [![Project status: CURRENT_PROJECT_STATUS](./assets/images/badges/CURRENT_PROJECT_STATUS.svg)](https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/tree/VERSION#CURRENT_PROJECT_STATUS)
    ```
 
    Alternatively, you can use link aliases to keep things short and organised.
@@ -33,17 +33,21 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
    [![Project status: CURRENT_PROJECT_STATUS][status]][project-status]
    
    [status]: ./assets/images/badges/CURRENT_PROJECT_STATUS.svg
-   [project-status]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#CURRENT_PROJECT_STATUS
+   [project-status]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/tree/VERSION#CURRENT_PROJECT_STATUS
    ```
+
+   Replace:
+   * `CURRENT_PROJECT_STATUS` with the lowercase project status you want to use; and
+   * `VERSION` with the [version](#versions) of the badge you want to use. You may want to use `master` instead, which will link to the most up-to-date explanation of the project status.
 
    > [!NOTE]
    > If you put your badge into a different folder or named the file differently, you will need to adjust the file path so that it leads to the correct location.
 
 ### Linking To This Repository
 
-1. Add the following text to your `README.md` file, again replacing `CURRENT_PROJECT_STATUS` with the lowercase project status you want to use:
+1. Add the following text to your `README.md` file:
    ```markdown
-   [![Project status: CURRENT_PROJECT_STATUS](https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/master/assets/images/badges/CURRENT_PROJECT_STATUS.svg?ref_type=heads)](https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#CURRENT_PROJECT_STATUS)
+   [![Project status: CURRENT_PROJECT_STATUS](https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/VERSION/assets/images/badges/CURRENT_PROJECT_STATUS.svg)](https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/tree/VERSION#CURRENT_PROJECT_STATUS)
    ```
 
    Alternatively, you can use link aliases to keep things short and organised.
@@ -51,12 +55,22 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
    ```markdown
    [![Project status: CURRENT_PROJECT_STATUS][status]][project-status]
    
-   [status]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/master/assets/images/badges/CURRENT_PROJECT_STATUS.svg?ref_type=heads
-   [project-status]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#CURRENT_PROJECT_STATUS
+   [status]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/VERSION/assets/images/badges/CURRENT_PROJECT_STATUS.svg
+   [project-status]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/tree/VERSION#CURRENT_PROJECT_STATUS
    ```
+
+   Replace:
+   * `CURRENT_PROJECT_STATUS` with the lowercase project status you want to use; and
+   * `VERSION` with the [version](#versions) of the badge you want to use. You may want to use `master` instead, which will link to the most up-to-date explanation of the project status.
 
    > [!WARNING]
    > If this repository ever goes offline, links to the badges will stop working!
+
+## Versions
+
+This repository uses the format `badge-version` for its tags, where:
+* `badge` is the lowercase project status (e.g., `maintained`, `abandoned`); and
+* `version` is the [Semantic Versioning][semver] string which describes the version of the `badge`.
 
 ## Links
 
@@ -192,6 +206,8 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 [shields]: https://shields.io/badges
 [shields-license-statement]: https://github.com/badges/shields/tree/29e39351ae557d536580d90521c390514b867e19?tab=readme-ov-file#license
+
+[semver]: https://semver.org/
 
 <!--- Markup Validation Service --->
 
