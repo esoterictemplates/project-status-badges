@@ -38,7 +38,7 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
 
    Replace:
    * `CURRENT_PROJECT_STATUS` with the lowercase project status you want to use; and
-   * `DOCUMENTATION_VERSION` with the [documentation version](#versions) you want to use. You may want to use `master` instead, which will link to the most up-to-date explanation of the project status.
+   * `DOCUMENTATION_VERSION` with the [documentation version](#versions) you want to use.
 
    > [!NOTE]
    > If you put your badge into a different folder or named the file differently, you will need to adjust the file path so that it leads to the correct location.
@@ -61,8 +61,8 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
 
    Replace:
    * `CURRENT_PROJECT_STATUS` with the lowercase project status you want to use;
-   * `VERSION` with the [version](#versions) of the badge you want to use (you may want to use `master` instead, which will link to the most up-to-date version of the badge); and
-   * `DOCUMENTATION_VERSION` with the [documentation version](#versions) you want to use. You may want to use `master` instead, which will link to the most up-to-date explanation of the project status.
+   * `VERSION` with the [version](#versions) of the badge you want to use; and
+   * `DOCUMENTATION_VERSION` with the [documentation version](#versions) you want to use.
 
    > [!WARNING]
    > If this repository ever goes offline, links to the badges will stop working! In that case, images will no longer load if you [link to this repository](#linking-to-this-repository).
@@ -74,6 +74,8 @@ This repository uses the format `badge-version` for its tags, where:
 * `version` is the [Semantic Versioning][semver] string which describes the version of the `badge`.
 
 This repository also uses regular [Semantic Versioning][semver] strings for the documentation (the [explanations](#project-status) of the project status).
+
+You can also use the name of a branch in [links](#usage) to get the most recent badges and documentation on that branch. Use the `master` branch to be fully up-to-date.
 
 ## Links
 
