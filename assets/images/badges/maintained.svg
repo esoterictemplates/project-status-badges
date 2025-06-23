@@ -91,6 +91,8 @@
 					</rdf:Bag>
 				</dc:subject>
 				<dc:language>en</dc:language>
+				<cc:attributionName>Esoteric Enderman</cc:attributionName>
+				<cc:attributionURL>https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/blob/master/assets/images/badges/maintained.svg</cc:attributionURL>
 				<dc:creator>
 					<cc:Agent>
 						<dc:title>Esoteric Enderman</dc:title>
