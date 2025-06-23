@@ -69,7 +69,9 @@
 			<cc:Work rdf:about="">
 				<dc:title>Project Status Badge: 'Finished'</dc:title>
 				<dc:description>A gray and green colored badge to indicate that a project is complete and not worked on anymore.</dc:description>
+
 				<dc:format>image/svg+xml</dc:format>
+
 				<dc:subject>
 					<rdf:Bag>
 						<rdf:li>finish</rdf:li>
@@ -88,7 +90,9 @@
 						<rdf:li>svg</rdf:li>
 					</rdf:Bag>
 				</dc:subject>
+
 				<dc:language>en</dc:language>
+
 				<cc:attributionName>Esoteric Enderman</cc:attributionName>
 				<cc:attributionURL>https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/blob/master/assets/images/badges/finished.svg</cc:attributionURL>
 				<dc:creator>
@@ -103,14 +107,24 @@
 						<cc:homepage rdf:resource="https://enderman.dev/" />
 					</cc:Agent>
 				</dc:contributor>
-				<dc:relation>https://shields.io/</dc:relation>
-				<dc:identifier>https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/master/assets/images/badges/finished.svg</dc:identifier>
+				<dc:publisher>
+					<cc:Agent>
+						<dc:title>Esoteric Enderman</dc:title>
+						<cc:homepage rdf:resource="https://enderman.dev/" />
+					</cc:Agent>
+				</dc:publisher>
 				<dc:rightsHolder>
 					<cc:Agent>
 						<dc:title>Esoteric Enderman</dc:title>
 						<cc:homepage rdf:resource="https://enderman.dev/"/>
 					</cc:Agent>
 				</dc:rightsHolder>
+
+				<dc:identifier>https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/master/assets/images/badges/finished.svg</dc:identifier>
+
+				<dc:source>https://img.shields.io/badge/%E2%9C%85%20Project%20status-Finished-green?style=for-the-badge&amp;link=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%23project-status&amp;link=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%23finished</dc:source>
+				<dc:relation>https://shields.io/</dc:relation>
+
 				<dc:rights>
 					ISC License
 
@@ -120,17 +134,11 @@
 
 					THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 				</dc:rights>
-				<dc:created>2025-05-15</dc:created>
-				<dc:modified>2025-06-23</dc:modified>
-				<dc:publisher>
-					<cc:Agent>
-						<dc:title>Esoteric Enderman</dc:title>
-						<cc:homepage rdf:resource="https://enderman.dev/" />
-					</cc:Agent>
-				</dc:publisher>
 				<cc:license rdf:resource="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/master/LICENSE" />
 				<dc:license>https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/master/LICENSE</dc:license>
-				<dc:source>https://img.shields.io/badge/%E2%9C%85%20Project%20status-Finished-green?style=for-the-badge&amp;link=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%23project-status&amp;link=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%23finished</dc:source>
+
+				<dc:created>2025-05-15</dc:created>
+				<dc:modified>2025-06-23</dc:modified>
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
