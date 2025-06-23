@@ -19,7 +19,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 ### Files
 
 * [LICENSE][isc-license-local] template from [isc.org][isc-license]
-* [README.md][isc-license-readme] contains the [ISC License][isc-license].
+* [README.md][isc-license-readme] contains the [ISC License][isc-license]
 
 ## [Creative Commons][cc] [Icons][cc-icons]
 
