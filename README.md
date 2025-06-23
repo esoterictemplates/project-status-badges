@@ -190,8 +190,6 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 <sup>[svg](https://gitlab.com/explore/projects/topics/svg), [readme](https://gitlab.com/explore/projects/topics/readme), [image](https://gitlab.com/explore/projects/topics/image), [images](https://gitlab.com/explore/projects/topics/images), [badge](https://gitlab.com/explore/projects/topics/badge), [readme-badges](https://gitlab.com/explore/projects/topics/readme-badges), [badges](https://gitlab.com/explore/projects/topics/badges)</sup>
 
-<!--- Link aliases --->
-
 [project]: ./
 
 [project-gitlab]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges
@@ -217,7 +215,6 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 [author]: https://enderman.dev
 
-<!--- Links --->
 
 [cc]: https://creativecommons.org/
 
@@ -226,7 +223,6 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 [semver]: https://semver.org/
 
-<!--- Markup Validation Service --->
 
 [markup-validator]: https://validator.w3.org/
 [rdf-validator]: https://www.w3.org/RDF/Validator/
@@ -246,7 +242,6 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 [icon-rdf-validation]: https://www.w3.org/RDF/Validator/rdfval?URI=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmaster%2Fdocs%2Fassets%2Fimages%2Ficons%2Fproject-status-badges%2Ficon.svg%3Fref_type%3Dheads&PARSE=Parse+URI%3A+&TRIPLES_AND_GRAPH=PRINT_TRIPLES&FORMAT=PNG_EMBED
 
-<!--- Files --->
 
 [license]: ./LICENSE
 
@@ -255,7 +250,6 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 [badges]: ./assets/images/badges/
 [icon]: ./docs/assets/images/icons/project-status-badges/icon.svg
 
-<!--- Badges --->
 
 [status]: ./assets/images/badges/unfinished.svg
 
@@ -263,14 +257,3 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 [finished]: ./assets/images/badges/finished.svg
 [unfinished]: ./assets/images/badges/unfinished.svg
 [abandoned]: ./assets/images/badges/abandoned.svg
-
-<!--
-Credit
-======
-
-The ISC License <https://www.isc.org/licenses/>
-===============
-Copyright (c) 1995-2003 Internet Software Consortium <https://www.isc.org/>
-Copyright (c) 2004-2013 Internet Systems Consortium Incorporated (ISC) <https://www.isc.org/>
-Licensed "like SPDX: 0BSD" <https://www.isc.org/licenses/>
--->
