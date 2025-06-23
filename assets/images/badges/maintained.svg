@@ -35,7 +35,7 @@
 
 		text {
 			fill: #fff;
-			font-family: Verdana, Geneva, DejaVu Sans, sans-serif;
+			font-family: "Verdana", "Geneva", "DejaVu Sans", "sans-serif";
 			font-size: 10px;
 			text-anchor: middle;
 			text-rendering: geometricPrecision;
