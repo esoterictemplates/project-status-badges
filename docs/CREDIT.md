@@ -12,9 +12,9 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 ## The [ISC License][isc-license]
 
-<sup>&copy; 1995-2003 [Internet Software Consortium (ISC)][isc-license-author]</sup>\
-<sup>&copy; 2004-2013 [Internet Systems Consortium Incorporated (ISC)][isc-license-author]</sup>\
-<sup>[Licensed][isc-license-license-statement] ["like SPDX: 0BSD"][isc-license-license]</sup>
+* © 1995-2003 [Internet Software Consortium (ISC)][isc-license-author]
+* © 2004-2013 [Internet Systems Consortium Incorporated (ISC)][isc-license-author]
+* [Licensed][isc-license-license-statement] ["like SPDX: 0BSD"][isc-license-license]
 
 ### Files
 
@@ -23,8 +23,8 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 ## [Creative Commons][cc] [Icons][cc-icons]
 
-<sup>By the [Creative Commons Team][cc-authors]</sup>\
-<sup>Licensed under the [Creative Commons Trademark Policy][cc-trademark-policy]</sup>
+* By the [Creative Commons Team][cc-authors]
+* Licensed under the [Creative Commons Trademark Policy][cc-trademark-policy]
 
 ### Files
 
@@ -33,8 +33,8 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 ## [Shields.io][shields] [Badges][shields-badges] @ [2025/5/1][shields@2025/5/1]
 
-<sup>By [Shields.io contributors][shields-author]</sup>\
-<sup>[Licensed under][shields-license-statement] [CC0][shields-license] [and in the public domain unless specified otherwise][shields-license-statement] ([license][cc0] by [Creative Commons][cc])</sup>
+* By [Shields.io contributors][shields-author]
+* [Licensed under][shields-license-statement] [CC0][shields-license] [and in the public domain unless specified otherwise][shields-license-statement] ([license][cc0] by [Creative Commons][cc])
 
 [![Creative Commons icon][cc-icon]][cc]
 [![Creative Commons 0 icon][cc0-icon]][cc0]
@@ -48,8 +48,8 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 ## [Inkscape][inkscape] [1.2.2][inkscape-1.2.2]
 
-<sup>By [Inkscape developers][inkscape-developers] and [authors][inkscape-authors]</sup>\
-<sup>Licensed under the [Inkscape license][inkscape-license]</sup>
+* By [Inkscape developers][inkscape-developers] and [authors][inkscape-authors]
+* Licensed under the [Inkscape license][inkscape-license]
 
 ### Files
 
