@@ -98,32 +98,36 @@
 				<dc:creator>
 					<cc:Agent>
 						<dc:title>Esoteric Enderman</dc:title>
-						<cc:homepage rdf:resource="https://enderman.dev/" />
 						<cc:attributionName>Esoteric Enderman</cc:attributionName>
+
+						<cc:homepage rdf:resource="https://enderman.dev/" />
 						<cc:attributionURL rdf:resource="https://enderman.dev/" />
 					</cc:Agent>
 				</dc:creator>
 				<dc:contributor>
 					<cc:Agent>
 						<dc:title>Esoteric Enderman</dc:title>
-						<cc:homepage rdf:resource="https://enderman.dev/" />
 						<cc:attributionName>Esoteric Enderman</cc:attributionName>
+
+						<cc:homepage rdf:resource="https://enderman.dev/" />
 						<cc:attributionURL rdf:resource="https://enderman.dev/" />
 					</cc:Agent>
 				</dc:contributor>
 				<dc:publisher>
 					<cc:Agent>
 						<dc:title>Esoteric Enderman</dc:title>
-						<cc:homepage rdf:resource="https://enderman.dev/" />
 						<cc:attributionName>Esoteric Enderman</cc:attributionName>
+
+						<cc:homepage rdf:resource="https://enderman.dev/" />
 						<cc:attributionURL rdf:resource="https://enderman.dev/" />
 					</cc:Agent>
 				</dc:publisher>
 				<dc:rightsHolder>
 					<cc:Agent>
 						<dc:title>Esoteric Enderman</dc:title>
-						<cc:homepage rdf:resource="https://enderman.dev/" />
 						<cc:attributionName>Esoteric Enderman</cc:attributionName>
+
+						<cc:homepage rdf:resource="https://enderman.dev/" />
 						<cc:attributionURL rdf:resource="https://enderman.dev/" />
 					</cc:Agent>
 				</dc:rightsHolder>
