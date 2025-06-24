@@ -129,7 +129,7 @@
 					</cc:Agent>
 				</dc:rightsHolder>
 
-				<dc:identifier>https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/main/assets/images/badges/abandoned.svg</dc:identifier>
+				<dc:identifier rdf:resource="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/main/assets/images/badges/abandoned.svg" />
 
 				<dc:source rdf:resource="https://img.shields.io/badge/%E2%9D%8C%20Project%20status-Abandoned-red?style=for-the-badge&amp;link=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%23project-status&amp;link=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%23abandoned" />
 				<dc:relation rdf:resource="https://shields.io/" />

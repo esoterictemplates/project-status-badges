@@ -132,7 +132,7 @@
 					</cc:Agent>
 				</dc:rightsHolder>
 
-				<dc:identifier>https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/main/assets/images/badges/maintained.svg</dc:identifier>
+				<dc:identifier rdf:resource="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/main/assets/images/badges/maintained.svg" />
 
 				<dc:source rdf:resource="https://img.shields.io/badge/%F0%9F%94%84%20Project%20status-Maintained-teal?style=for-the-badge&amp;link=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%23project-status&amp;link=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%23maintained" />
 				<dc:relation rdf:resource="https://shields.io/" />

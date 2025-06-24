@@ -195,7 +195,7 @@
           </cc:Agent>
         </dc:rightsHolder>
 
-        <dc:identifier>https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/main/docs/assets/images/icons/project-status-badges/icon.svg</dc:identifier>
+        <dc:identifier rdf:resource="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/main/docs/assets/images/icons/project-status-badges/icon.svg" />
 
         <dc:relation rdf:resource="https://shields.io/" />
 
