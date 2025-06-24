@@ -100,6 +100,7 @@ You can also use the name of a branch in [links](#usage) to get the most recent 
 * [tangled][project-tangled]
 * [〄.ai][project-sij.ai]
 * [Launchpad][project-launchpad]
+* [Azure DevOps][project-devops]
 * [pub.solar][project-pub.solar]
 * [repo.or.cz][project-repo.or.cz]
 * [HelixTeamHub][project-helixteamhub]
@@ -209,6 +210,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 [project-framagit]: https://framagit.org/esoterictemplates/assets/images/symbols/project-status-badges (This project on FramaGit)
 [project-sij.ai]: https://sij.ai/enderman/project-status-badges (This project on 〄.ai)
 [project-launchpad]: https://launchpad.net/badges (This project on Launchpad)
+[project-devops]: https://dev.azure.com/esoterictemplates/Project%20Status%20Badges/_git/Project%20Status%20Badges (This project on Azure DevOps)
 [project-sourceforge]: https://sourceforge.net/projects/badges/ (This project on SourceForge)
 [project-tangled]: https://tangled.sh/@enderman.dev/project-status-badges (This project on tangled)
 [project-pub.solar]: https://git.pub.solar/templates/project-status-badges (This project on pub.solar)
