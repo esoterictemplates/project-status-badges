@@ -197,7 +197,7 @@
 
         <dc:identifier>https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/master/docs/assets/images/icons/project-status-badges/icon.svg</dc:identifier>
 
-        <dc:relation>https://shields.io/</dc:relation>
+        <dc:relation rdf:resource="https://shields.io/" />
 
         <dc:rights>
           ISC License
