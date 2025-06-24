@@ -19,11 +19,15 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
 
 ## Usage
 
-### Markdown
-
-#### Copying The Badge (Recommended)
+### Copying The Badge (Recommended)
 
 1. Copy-paste the badge(s) you want to use into your project. To keep things organised you can put the badge(s) in a folder such as `assets/images/badges`.
+
+> [!NOTE]
+> If you put your badge into a different folder or named the file differently, you will need to adjust the file paths so that they lead to the correct location.
+
+#### Markdown
+
 2. Add the following text to your file:
    ```markdown
    [![Project status: CURRENT_PROJECT_STATUS](./assets/images/badges/CURRENT_PROJECT_STATUS.svg)](https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/tree/DOCUMENTATION_VERSION#CURRENT_PROJECT_STATUS)
@@ -42,10 +46,12 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
    * `CURRENT_PROJECT_STATUS` with the lowercase project status you want to use; and
    * `DOCUMENTATION_VERSION` with the [documentation version](#versions) you want to use.
 
-> [!NOTE]
-> If you put your badge into a different folder or named the file differently, you will need to adjust the file path so that it leads to the correct location.
+### Linking To This Repository
 
-#### Linking To This Repository
+> [!WARNING]
+> If this repository ever goes offline, links to the badges will stop working! In that case, images will no longer load if you [link to this repository](#linking-to-this-repository).
+
+#### Markdown
 
 1. Add the following text to your file:
    ```markdown
@@ -65,9 +71,6 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
    * `CURRENT_PROJECT_STATUS` with the lowercase project status you want to use;
    * `VERSION` with the [version](#versions) of the badge you want to use; and
    * `DOCUMENTATION_VERSION` with the [documentation version](#versions) you want to use.
-
-> [!WARNING]
-> If this repository ever goes offline, links to the badges will stop working! In that case, images will no longer load if you [link to this repository](#linking-to-this-repository).
 
 ## Versions
 
