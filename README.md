@@ -206,7 +206,6 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 [project-framagit]: https://framagit.org/esoterictemplates/assets/images/symbols/project-status-badges
 [project-sij.ai]: https://sij.ai/enderman/project-status-badges
 [project-launchpad]: https://launchpad.net/badges
-[project-sourcehut]: https://git.sr.ht/~enderman/project-status-badges
 [project-sourceforge]: https://sourceforge.net/projects/badges/
 [project-tangled]: https://tangled.sh/@enderman.dev/project-status-badges
 [project-pub.solar]: https://git.pub.solar/templates/project-status-badges
