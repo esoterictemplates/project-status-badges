@@ -129,7 +129,7 @@
 					</cc:Agent>
 				</dc:rightsHolder>
 
-				<dc:identifier>https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/master/assets/images/badges/abandoned.svg</dc:identifier>
+				<dc:identifier>https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/main/assets/images/badges/abandoned.svg</dc:identifier>
 
 				<dc:source>https://img.shields.io/badge/%E2%9D%8C%20Project%20status-Abandoned-red?style=for-the-badge&amp;link=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%23project-status&amp;link=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%23abandoned</dc:source>
 				<dc:relation rdf:resource="https://shields.io/" />
@@ -143,8 +143,8 @@
 
 					THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 				</dc:rights>
-				<cc:license rdf:resource="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/master/LICENSE" />
-				<dc:license rdf:resource="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/master/LICENSE" />
+				<cc:license rdf:resource="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/main/LICENSE" />
+				<dc:license rdf:resource="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/main/LICENSE" />
 
 				<dc:created>2025-05-04</dc:created>
 				<dc:modified>2025-06-23</dc:modified>
