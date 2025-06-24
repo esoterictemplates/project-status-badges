@@ -154,7 +154,7 @@ A project is **work in progress** if:
 
 ![Project Status Badge: 'Abandoned'][abandoned]
 
-**Abandoned** projects are those which do not have a stable (complete) version and which the author(s) decided are not worth working on anymore.
+**Abandoned** projects are those which do not have a [stable (complete) version](#stable-versions) and which the author(s) decided are not worth working on anymore.
 
 ## Verification
 
