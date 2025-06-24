@@ -191,71 +191,71 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 ## Topics
 
-<sup>[svg](https://gitlab.com/explore/projects/topics/svg), [readme](https://gitlab.com/explore/projects/topics/readme), [image](https://gitlab.com/explore/projects/topics/image), [images](https://gitlab.com/explore/projects/topics/images), [badge](https://gitlab.com/explore/projects/topics/badge), [readme-badges](https://gitlab.com/explore/projects/topics/readme-badges), [badges](https://gitlab.com/explore/projects/topics/badges)</sup>
+<sup>[badge](https://gitlab.com/explore/projects/topics/badge "GitLab topic: 'badge'")</sup> <sup>[badges](https://gitlab.com/explore/projects/topics/badges "GitLab topic: 'badges'")</sup> <sup>[image](https://gitlab.com/explore/projects/topics/image "GitLab topic: 'image'")</sup> <sup>[images](https://gitlab.com/explore/projects/topics/images "GitLab topic: 'images'")</sup> <sup>[readme](https://gitlab.com/explore/projects/topics/readme "GitLab topic: 'readme'")</sup> <sup>[readme-badges](https://gitlab.com/explore/projects/topics/readme-badges "GitLab topic: 'readme-badges'")</sup> <sup>[svg](https://gitlab.com/explore/projects/topics/svg "GitLab topic: 'svg'")</sup>
 
-[project]: ./
+[project]: ./ (This project)
 
-[project-gitlab]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges
-[project-github]: https://github.com/esoterictemplates/project-status-badges
-[project-gitea]: https://gitea.com/esoterictemplates/project-status-badges
-[project-gitgud]: https://gitgud.io/templates/assets/images/symbols/project-status-badges
-[project-gitflic]: https://gitflic.ru/project/esoterictemplates/project-status-badges
-[project-git.gay]: https://git.gay/templates/project-status-badges
-[project-bitbucket]: https://bitbucket.org/esotericenderman/project-status-badges/
-[project-buddy]: https://eu.buddy.works/enderman/project-status-badges
-[project-codeberg]: https://codeberg.org/esoterictemplates/project-status-badges
-[project-disroot]: https://git.disroot.org/templates/project-status-badges
-[project-moe-git]: https://git.moe.team/esoterictemplates/project-status-badges
-[project-framagit]: https://framagit.org/esoterictemplates/assets/images/symbols/project-status-badges
-[project-sij.ai]: https://sij.ai/enderman/project-status-badges
-[project-launchpad]: https://launchpad.net/badges
-[project-sourceforge]: https://sourceforge.net/projects/badges/
-[project-tangled]: https://tangled.sh/@enderman.dev/project-status-badges
-[project-pub.solar]: https://git.pub.solar/templates/project-status-badges
-[project-helixteamhub]: https://helixteamhub.cloud/enderman/projects/templates/repositories/project-status-badges
-[project-repo.or.cz]: https://repo.or.cz/badges.git
+[project-gitlab]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges (This project on GitLab)
+[project-github]: https://github.com/esoterictemplates/project-status-badges (This project on GitHub)
+[project-gitea]: https://gitea.com/esoterictemplates/project-status-badges (This project on Gitea)
+[project-gitgud]: https://gitgud.io/templates/assets/images/symbols/project-status-badges (This project on GitGud)
+[project-gitflic]: https://gitflic.ru/project/esoterictemplates/project-status-badges (This project on GitFlic)
+[project-git.gay]: https://git.gay/templates/project-status-badges (This project on git.gay)
+[project-bitbucket]: https://bitbucket.org/esotericenderman/project-status-badges/ (This project on Bitbucket)
+[project-buddy]: https://eu.buddy.works/enderman/project-status-badges (This project on Buddy)
+[project-codeberg]: https://codeberg.org/esoterictemplates/project-status-badges (This project on Codeberg)
+[project-disroot]: https://git.disroot.org/templates/project-status-badges (This project on Disroot)
+[project-moe-git]: https://git.moe.team/esoterictemplates/project-status-badges (This project on Moe's Git)
+[project-framagit]: https://framagit.org/esoterictemplates/assets/images/symbols/project-status-badges (This project on FramaGit)
+[project-sij.ai]: https://sij.ai/enderman/project-status-badges (This project on 〄.ai)
+[project-launchpad]: https://launchpad.net/badges (This project on Launchpad)
+[project-sourceforge]: https://sourceforge.net/projects/badges/ (This project on SourceForge)
+[project-tangled]: https://tangled.sh/@enderman.dev/project-status-badges (This project on tangled)
+[project-pub.solar]: https://git.pub.solar/templates/project-status-badges (This project on pub.solar)
+[project-helixteamhub]: https://helixteamhub.cloud/enderman/projects/templates/repositories/project-status-badges (This project on HelixTeamHub)
+[project-repo.or.cz]: https://repo.or.cz/badges.git (This project on repo.or.cz)
 
-[author]: https://enderman.dev
-
-
-[cc]: https://creativecommons.org/
-
-[shields]: https://shields.io/badges
-[shields-license-statement]: https://github.com/badges/shields/tree/29e39351ae557d536580d90521c390514b867e19?tab=readme-ov-file#license
-
-[semver]: https://semver.org/
+[author]: https://enderman.dev (Esoteric Enderman's website)
 
 
-[markup-validator]: https://validator.w3.org/
-[rdf-validator]: https://www.w3.org/RDF/Validator/
+[cc]: https://creativecommons.org/ (Creative Commons)
 
-[maintained-validation]: https://validator.w3.org/check?uri=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmaster%2Fassets%2Fimages%2Fbadges%2Fmaintained.svg%3Fref_type%3Dheads&charset=%28detect+automatically%29&doctype=Inline&group=0
-[finished-validation]: https://validator.w3.org/check?uri=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmaster%2Fassets%2Fimages%2Fbadges%2Ffinished.svg%3Fref_type%3Dheads&charset=%28detect+automatically%29&doctype=Inline&group=0&user-agent=W3C_Validator%2F1.3+
-[unfinished-validation]: https://validator.w3.org/check?uri=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmaster%2Fassets%2Fimages%2Fbadges%2Funfinished.svg%3Fref_type%3Dheads&charset=%28detect+automatically%29&doctype=Inline&group=0&user-agent=W3C_Validator%2F1.3+
-[abandoned-validation]: https://validator.w3.org/check?uri=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmaster%2Fassets%2Fimages%2Fbadges%2Fabandoned.svg%3Fref_type%3Dheads&charset=%28detect+automatically%29&doctype=Inline&group=0&user-agent=W3C_Validator%2F1.3+
+[shields]: https://shields.io/badges (Shields.io Badges)
+[shields-license-statement]: https://github.com/badges/shields/tree/29e39351ae557d536580d90521c390514b867e19?tab=readme-ov-file#license (The Shields.io Badges license statement)
 
-[icon-validation]: https://validator.w3.org/check?uri=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmaster%2Fdocs%2Fassets%2Fimages%2Ficons%2Fproject-status-badges%2Ficon.svg%3Fref_type%3Dheads&charset=%28detect+automatically%29&doctype=Inline&group=0&user-agent=W3C_Validator%2F1.3+
+[semver]: https://semver.org/ (Semantic Versioning)
 
 
-[maintained-rdf-validation]: https://www.w3.org/RDF/Validator/rdfval?URI=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmaster%2Fassets%2Fimages%2Fbadges%2Fmaintained.svg%3Fref_type%3Dheads&PARSE=Parse+URI%3A+&TRIPLES_AND_GRAPH=PRINT_TRIPLES&FORMAT=PNG_EMBED
-[finished-rdf-validation]: https://www.w3.org/RDF/Validator/rdfval?URI=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmaster%2Fassets%2Fimages%2Fbadges%2Ffinished.svg%3Fref_type%3Dheads&PARSE=Parse+URI%3A+&TRIPLES_AND_GRAPH=PRINT_TRIPLES&FORMAT=PNG_EMBED
-[unfinished-rdf-validation]: https://www.w3.org/RDF/Validator/rdfval?URI=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmaster%2Fassets%2Fimages%2Fbadges%2Funfinished.svg%3Fref_type%3Dheads&PARSE=Parse+URI%3A+&TRIPLES_AND_GRAPH=PRINT_TRIPLES&FORMAT=PNG_EMBED
-[abandoned-rdf-validation]: https://www.w3.org/RDF/Validator/rdfval?URI=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmaster%2Fassets%2Fimages%2Fbadges%2Fabandoned.svg%3Fref_type%3Dheads&PARSE=Parse+URI%3A+&TRIPLES_AND_GRAPH=PRINT_TRIPLES&FORMAT=PNG_EMBED
+[markup-validator]: https://validator.w3.org/ (The W3C Markup Validator)
+[rdf-validator]: https://www.w3.org/RDF/Validator/ (The W3C RDF Validator)
 
-[icon-rdf-validation]: https://www.w3.org/RDF/Validator/rdfval?URI=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmaster%2Fdocs%2Fassets%2Fimages%2Ficons%2Fproject-status-badges%2Ficon.svg%3Fref_type%3Dheads&PARSE=Parse+URI%3A+&TRIPLES_AND_GRAPH=PRINT_TRIPLES&FORMAT=PNG_EMBED
+[maintained-validation]: https://validator.w3.org/check?uri=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmaster%2Fassets%2Fimages%2Fbadges%2Fmaintained.svg%3Fref_type%3Dheads&charset=%28detect+automatically%29&doctype=Inline&group=0 (The markup validation of the "maintained" project status badge)
+[finished-validation]: https://validator.w3.org/check?uri=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmaster%2Fassets%2Fimages%2Fbadges%2Ffinished.svg%3Fref_type%3Dheads&charset=%28detect+automatically%29&doctype=Inline&group=0&user-agent=W3C_Validator%2F1.3+ (The markup validation of the "finished" project status badge)
+[unfinished-validation]: https://validator.w3.org/check?uri=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmaster%2Fassets%2Fimages%2Fbadges%2Funfinished.svg%3Fref_type%3Dheads&charset=%28detect+automatically%29&doctype=Inline&group=0&user-agent=W3C_Validator%2F1.3+ (The markup validation of the "unfinished" project status badge)
+[abandoned-validation]: https://validator.w3.org/check?uri=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmaster%2Fassets%2Fimages%2Fbadges%2Fabandoned.svg%3Fref_type%3Dheads&charset=%28detect+automatically%29&doctype=Inline&group=0&user-agent=W3C_Validator%2F1.3+ (The markup validation of the "abandoned" project status badge)
 
-
-[license]: ./LICENSE
-
-[credit]: ./docs/CREDIT.md
-
-[badges]: ./assets/images/badges/
-[icon]: ./docs/assets/images/icons/project-status-badges/icon.svg
+[icon-validation]: https://validator.w3.org/check?uri=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmaster%2Fdocs%2Fassets%2Fimages%2Ficons%2Fproject-status-badges%2Ficon.svg%3Fref_type%3Dheads&charset=%28detect+automatically%29&doctype=Inline&group=0&user-agent=W3C_Validator%2F1.3+ (The markup validation of this project's icon)
 
 
-[status]: ./assets/images/badges/unfinished.svg
+[maintained-rdf-validation]: https://www.w3.org/RDF/Validator/rdfval?URI=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmaster%2Fassets%2Fimages%2Fbadges%2Fmaintained.svg%3Fref_type%3Dheads&PARSE=Parse+URI%3A+&TRIPLES_AND_GRAPH=PRINT_TRIPLES&FORMAT=PNG_EMBED (The RDF validation of the "maintained" project status badge)
+[finished-rdf-validation]: https://www.w3.org/RDF/Validator/rdfval?URI=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmaster%2Fassets%2Fimages%2Fbadges%2Ffinished.svg%3Fref_type%3Dheads&PARSE=Parse+URI%3A+&TRIPLES_AND_GRAPH=PRINT_TRIPLES&FORMAT=PNG_EMBED (The RDF validation of the "finished" project status badge)
+[unfinished-rdf-validation]: https://www.w3.org/RDF/Validator/rdfval?URI=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmaster%2Fassets%2Fimages%2Fbadges%2Funfinished.svg%3Fref_type%3Dheads&PARSE=Parse+URI%3A+&TRIPLES_AND_GRAPH=PRINT_TRIPLES&FORMAT=PNG_EMBED (The RDF validation of the "unfinished" project status badge)
+[abandoned-rdf-validation]: https://www.w3.org/RDF/Validator/rdfval?URI=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmaster%2Fassets%2Fimages%2Fbadges%2Fabandoned.svg%3Fref_type%3Dheads&PARSE=Parse+URI%3A+&TRIPLES_AND_GRAPH=PRINT_TRIPLES&FORMAT=PNG_EMBED (The RDF validation of the "abandoned" project status badge)
 
-[maintained]: ./assets/images/badges/maintained.svg
-[finished]: ./assets/images/badges/finished.svg
-[unfinished]: ./assets/images/badges/unfinished.svg
-[abandoned]: ./assets/images/badges/abandoned.svg
+[icon-rdf-validation]: https://www.w3.org/RDF/Validator/rdfval?URI=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmaster%2Fdocs%2Fassets%2Fimages%2Ficons%2Fproject-status-badges%2Ficon.svg%3Fref_type%3Dheads&PARSE=Parse+URI%3A+&TRIPLES_AND_GRAPH=PRINT_TRIPLES&FORMAT=PNG_EMBED (The RDF validation of this project's icon)
+
+
+[license]: ./LICENSE (This project's license)
+
+[credit]: ./docs/CREDIT.md (The credits for this project)
+
+[badges]: ./assets/images/badges/ (The badges of this project)
+[icon]: ./docs/assets/images/icons/project-status-badges/icon.svg (The icon of this project)
+
+
+[status]: ./assets/images/badges/unfinished.svg (The status of this project)
+
+[maintained]: ./assets/images/badges/maintained.svg (The "maintained" project status badge)
+[finished]: ./assets/images/badges/finished.svg (The "finished" project status badge)
+[unfinished]: ./assets/images/badges/unfinished.svg (The "unfinished" project status badge)
+[abandoned]: ./assets/images/badges/abandoned.svg (The "abandoned" project status badge)
