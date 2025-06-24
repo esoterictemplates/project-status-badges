@@ -2,7 +2,7 @@
 
 <sup>By [Esoteric Enderman][author]</sup>
 
-[![Project status: unfinished][status]](#unfinished)
+[![Project status: maintained][status]](#maintained)
 
 Badges for quickly and easily indicating the [status](#project-status) of a project.
 
@@ -255,7 +255,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 [icon]: ./docs/assets/images/icons/project-status-badges/icon.svg (The icon of this project)
 
 
-[status]: ./assets/images/badges/unfinished.svg (The status of this project)
+[status]: ./assets/images/badges/maintained.svg (The status of this project)
 
 [maintained]: ./assets/images/badges/maintained.svg (The "maintained" project status badge)
 [finished]: ./assets/images/badges/finished.svg (The "finished" project status badge)
