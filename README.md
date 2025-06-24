@@ -192,7 +192,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 ## Topics
 
-<sup>[badge](https://gitlab.com/explore/projects/topics/badge "GitLab topic: 'badge'")</sup> <sup>[badges](https://gitlab.com/explore/projects/topics/badges "GitLab topic: 'badges'")</sup> <sup>[image](https://gitlab.com/explore/projects/topics/image "GitLab topic: 'image'")</sup> <sup>[images](https://gitlab.com/explore/projects/topics/images "GitLab topic: 'images'")</sup> <sup>[readme](https://gitlab.com/explore/projects/topics/readme "GitLab topic: 'readme'")</sup> <sup>[readme-badges](https://gitlab.com/explore/projects/topics/readme-badges "GitLab topic: 'readme-badges'")</sup> <sup>[svg](https://gitlab.com/explore/projects/topics/svg "GitLab topic: 'svg'")</sup>
+<sup>[badge](https://gitlab.com/explore/projects/topics/badge "GitLab topic: 'badge'"), [badges](https://gitlab.com/explore/projects/topics/badges "GitLab topic: 'badges'"), [image](https://gitlab.com/explore/projects/topics/image "GitLab topic: 'image'"), [images](https://gitlab.com/explore/projects/topics/images "GitLab topic: 'images'"), [readme](https://gitlab.com/explore/projects/topics/readme "GitLab topic: 'readme'"), [readme-badges](https://gitlab.com/explore/projects/topics/readme-badges "GitLab topic: 'readme-badges'"), [svg](https://gitlab.com/explore/projects/topics/svg "GitLab topic: 'svg'")</sup>
 
 [project]: ./ (This project)
 
