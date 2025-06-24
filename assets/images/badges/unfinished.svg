@@ -131,7 +131,7 @@
 
 				<dc:identifier>https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/main/assets/images/badges/unfinished.svg</dc:identifier>
 
-				<dc:source>https://img.shields.io/badge/%F0%9F%9A%A7%20Project%20status-Unfinished-yellow?style=for-the-badge&amp;link=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%23project-status&amp;link=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%23unfinished</dc:source>
+				<dc:source rdf:resource="https://img.shields.io/badge/%F0%9F%9A%A7%20Project%20status-Unfinished-yellow?style=for-the-badge&amp;link=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%23project-status&amp;link=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fproject-status-badges%23unfinished" />
 				<dc:relation rdf:resource="https://shields.io/" />
 
 				<dc:rights>
