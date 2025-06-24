@@ -158,12 +158,12 @@
 
         <dc:language>en</dc:language>
 
-        <cc:attributionName>Esoteric Enderman</cc:attributionName>
         <dc:creator>
           <cc:Agent>
             <dc:title>Esoteric Enderman</dc:title>
             <cc:homepage rdf:resource="https://enderman.dev/" />
             <cc:attributionURL rdf:resource="https://enderman.dev/" />
+            <cc:attributionName>Esoteric Enderman</cc:attributionName>
           </cc:Agent>
         </dc:creator>
         <dc:contributor>
@@ -171,6 +171,7 @@
             <dc:title>Esoteric Enderman</dc:title>
             <cc:homepage rdf:resource="https://enderman.dev/" />
             <cc:attributionURL rdf:resource="https://enderman.dev/" />
+            <cc:attributionName>Esoteric Enderman</cc:attributionName>
           </cc:Agent>
         </dc:contributor>
         <dc:publisher>
@@ -178,6 +179,7 @@
             <dc:title>Esoteric Enderman</dc:title>
             <cc:homepage rdf:resource="https://enderman.dev/" />
             <cc:attributionURL rdf:resource="https://enderman.dev/" />
+            <cc:attributionName>Esoteric Enderman</cc:attributionName>
           </cc:Agent>
         </dc:publisher>
         <dc:rightsHolder>
@@ -185,6 +187,7 @@
             <dc:title>Esoteric Enderman</dc:title>
             <cc:homepage rdf:resource="https://enderman.dev/" />
             <cc:attributionURL rdf:resource="https://enderman.dev/" />
+            <cc:attributionName>Esoteric Enderman</cc:attributionName>
           </cc:Agent>
         </dc:rightsHolder>
 
