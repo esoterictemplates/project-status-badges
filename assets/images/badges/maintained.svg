@@ -6,7 +6,6 @@
 
 	<!-- Do not add rounded edges or else this badge will look different to Shields.io badges! -->
 	<rect width="146.25" height="28" class="key" />
-
 	<rect x="146.25" width="110.5" height="28" class="status" />
 
 	<!-- The text here may or may not be perfectly centered. Regardless, it's best to leave everything as is, so that it's aligned with the text of Shields.io badges. -->
@@ -15,7 +14,6 @@
 				🔄 PROJECT STATUS
 		</text>
 	</a>
-
 	<a target="_blank" href="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#maintained" xlink:href="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#maintained">
 		<text x="201.5" y="17.5" textLength="86.5" class="bold">
 			MAINTAINED
@@ -26,11 +24,9 @@
 		rect {
 			shape-rendering: crispEdges;
 		}
-
 		rect.key {
 			fill: #555;
 		}
-
 		rect.status {
 			fill: teal;
 		}
@@ -42,7 +38,6 @@
 			text-anchor: middle;
 			text-rendering: geometricPrecision;
 		}
-
 		text.bold {
 			font-weight: bold;
 		}
