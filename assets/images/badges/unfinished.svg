@@ -4,12 +4,12 @@
 	<title>Project Status Badge: 'Unfinished'</title>
 	<desc>A gray and yellow colored badge to indicate that a project is not finished and is still work in progress.</desc>
 
-	<!-- Do not add rounded edges or else this badge will look different to other Shields.io badges! -->
+	<!-- Do not add rounded edges or else this badge will look different to Shields.io badges! -->
 	<rect width="146.25" height="28" class="key" />
 
 	<rect x="146.25" width="109.5" height="28" class="status" />
 
-	<!-- The text here may or may not be perfectly centered. Regardless, it's best to leave everything as is, so that it's aligned with the text of other Shields.io badges. -->
+	<!-- The text here may or may not be perfectly centered. Regardless, it's best to leave everything as is, so that it's aligned with the text of Shields.io badges. -->
 	<a target="_blank" href="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#project-status" xlink:href="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#project-status">
 		<text x="73.125" y="17.5" textLength="122.25">
 			🚧 PROJECT STATUS
