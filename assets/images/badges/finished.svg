@@ -4,22 +4,6 @@
 	<title>Project Status Badge: 'Finished'</title>
 	<desc>A gray and green colored badge to indicate that a project is complete and not worked on anymore.</desc>
 
-	<!--
-	Credit
-	======
-
-	The ISC License <https://www.isc.org/licenses/>
-	===============
-	Copyright (c) 1995-2003 Internet Software Consortium <https://www.isc.org/>
-	Copyright (c) 2004-2013 Internet Systems Consortium Incorporated (ISC) <https://www.isc.org/>
-	Licensed "like SPDX: 0BSD" <https://www.isc.org/licenses/>
-
-	Shields.io Badges @ 2025/5/1 <https://github.com/badges/shields/tree/29e39351ae557d536580d90521c390514b867e19>
-	=================
-	By Shields.io contributors <https://shields.io/community#contributors>
-	Licensed under CC0 and in the public domain unless specified otherwise <https://github.com/badges/shields/tree/29e39351ae557d536580d90521c390514b867e19?tab=readme-ov-file#license>
-	-->
-
 	<style>
 		rect {
 			shape-rendering: crispEdges;
@@ -148,7 +132,23 @@
 				<dc:license rdf:resource="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/main/LICENSE" />
 
 				<dc:created>2025-05-04</dc:created>
-				<dc:modified>2025-06-24</dc:modified>
+				<dc:modified>2025-06-25</dc:modified>
+
+				<!--
+				Credit
+				======
+
+				The ISC License <https://www.isc.org/licenses/>
+				===============
+				Copyright (c) 1995-2003 Internet Software Consortium <https://www.isc.org/>
+				Copyright (c) 2004-2013 Internet Systems Consortium Incorporated (ISC) <https://www.isc.org/>
+				Licensed "like SPDX: 0BSD" <https://www.isc.org/licenses/>
+
+				Shields.io Badges @ 2025/5/1 <https://github.com/badges/shields/tree/29e39351ae557d536580d90521c390514b867e19>
+				=================
+				By Shields.io contributors <https://shields.io/community#contributors>
+				Licensed under CC0 and in the public domain unless specified otherwise <https://github.com/badges/shields/tree/29e39351ae557d536580d90521c390514b867e19?tab=readme-ov-file#license>
+				-->
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
