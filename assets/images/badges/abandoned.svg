@@ -4,6 +4,24 @@
 	<title>Project Status Badge: 'Abandoned'</title>
 	<desc>A gray and red colored badge to indicate that a project is not complete, has been marked as abandoned and is not worked on anymore.</desc>
 
+	<!-- Do not add rounded edges or else this badge will look different to other Shields.io badges! -->
+	<rect width="146" height="28" class="key" />
+
+	<rect x="146" width="107.25" height="28" class="status" />
+
+	<!-- The text here may or may not be perfectly centered. Regardless, it's best to leave everything as is, so that it's aligned with the text of other Shields.io badges. -->
+	<a target="_blank" href="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#project-status" xlink:href="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#project-status">
+		<text x="73" y="17.5" textLength="122">
+			❌ PROJECT STATUS
+		</text>
+	</a>
+
+	<a target="_blank" href="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#abandoned" xlink:href="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#abandoned">
+		<text x="199.625" y="17.5" textLength="83.25" class="bold">
+			ABANDONED
+		</text>
+	</a>
+
 	<style>
 		rect {
 			shape-rendering: crispEdges;
@@ -29,24 +47,6 @@
 			font-weight: bold;
 		}
 	</style>
-
-	<!-- Do not add rounded edges or else this badge will look different to other Shields.io badges! -->
-	<rect width="146" height="28" class="key" />
-
-	<rect x="146" width="107.25" height="28" class="status" />
-
-	<!-- The text here may or may not be perfectly centered. Regardless, it's best to leave everything as is, so that it's aligned with the text of other Shields.io badges. -->
-	<a target="_blank" href="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#project-status" xlink:href="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#project-status">
-		<text x="73" y="17.5" textLength="122">
-			❌ PROJECT STATUS
-		</text>
-	</a>
-
-	<a target="_blank" href="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#abandoned" xlink:href="https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges#abandoned">
-		<text x="199.625" y="17.5" textLength="83.25" class="bold">
-			ABANDONED
-		</text>
-	</a>
 
 	<metadata>
 		<rdf:RDF>
