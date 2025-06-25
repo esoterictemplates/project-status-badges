@@ -162,9 +162,19 @@ A project is **work in progress** if:
 
 ## Verification
 
-The [badges][badges] and [icon][icon] of this project have been verified using the [W3C Markup Validation Service][markup-validator] and the [W3C RDF Validation Service][rdf-validator]. See the output for yourself here:
+The [badges][badges] and [icon][icon] of this project have been verified using the [Nu HTML Checker][nu-markup-validator], [W3C Markup Validation Service][markup-validator], and the [W3C RDF Validation Service][rdf-validator]. See the output for yourself here:
 
 ### Markup Validation
+
+#### Nu
+
+* [Maintained][nu-maintained-validation]
+* [Finished][nu-finished-validation]
+* [Unfinished][nu-unfinished-validation]
+* [Abandoned][nu-abandoned-validation]
+* [Icon][nu-icon-validation]
+
+#### W3C
 
 * [Maintained][maintained-validation]
 * [Finished][finished-validation]
@@ -229,6 +239,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 
 [markup-validator]: https://validator.w3.org/ (The W3C Markup Validator)
+[nu-markup-validator]: https://validator.nu/ (The Nu Markup Validator)
 [rdf-validator]: https://www.w3.org/RDF/Validator/ (The W3C RDF Validator)
 
 [maintained-validation]: https://validator.w3.org/check?uri=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmain%2Fassets%2Fimages%2Fbadges%2Fmaintained.svg%3Fref_type%3Dheads&charset=%28detect+automatically%29&doctype=Inline&group=0 (The markup validation of the "maintained" project status badge)
@@ -237,6 +248,14 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 [abandoned-validation]: https://validator.w3.org/check?uri=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmain%2Fassets%2Fimages%2Fbadges%2Fabandoned.svg%3Fref_type%3Dheads&charset=%28detect+automatically%29&doctype=Inline&group=0&user-agent=W3C_Validator%2F1.3+ (The markup validation of the "abandoned" project status badge)
 
 [icon-validation]: https://validator.w3.org/check?uri=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmain%2Fdocs%2Fassets%2Fimages%2Ficons%2Fproject-status-badges%2Ficon.svg%3Fref_type%3Dheads&charset=%28detect+automatically%29&doctype=Inline&group=0&user-agent=W3C_Validator%2F1.3+ (The markup validation of this project's icon)
+
+
+[nu-maintained-validation]: https://validator.nu/?showsource=yes&doc=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmain%2Fassets%2Fimages%2Fbadges%2Fmaintained.svg%3Fref_type%3Dheads (The markup validation of the "maintained" project status badge)
+[nu-finished-validation]: https://validator.nu/?showsource=yes&doc=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmain%2Fassets%2Fimages%2Fbadges%2Ffinished.svg%3Fref_type%3Dheads (The markup validation of the "finished" project status badge)
+[nu-unfinished-validation]: https://validator.nu/?showsource=yes&doc=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmain%2Fassets%2Fimages%2Fbadges%2Funfinished.svg%3Fref_type%3Dheads (The markup validation of the "unfinished" project status badge)
+[nu-abandoned-validation]: https://validator.nu/?showsource=yes&doc=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmain%2Fassets%2Fimages%2Fbadges%2Fabandoned.svg%3Fref_type%3Dheads (The markup validation of the "abandoned" project status badge)
+
+[nu-icon-validation]: https://validator.nu/?showsource=yes&doc=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmain%2Fdocs%2Fassets%2Fimages%2Ficons%2Fproject-status-badges%2Ficon.svg%3Fref_type%3Dheads (The markup validation of this project's icon)
 
 
 [maintained-rdf-validation]: https://www.w3.org/RDF/Validator/rdfval?URI=https%3A%2F%2Fgitlab.com%2Fesoterictemplates%2Fassets%2Fimages%2Fsymbols%2Fproject-status-badges%2F-%2Fraw%2Fmain%2Fassets%2Fimages%2Fbadges%2Fmaintained.svg%3Fref_type%3Dheads&PARSE=Parse+URI%3A+&TRIPLES_AND_GRAPH=PRINT_TRIPLES&FORMAT=PNG_EMBED (The RDF validation of the "maintained" project status badge)
