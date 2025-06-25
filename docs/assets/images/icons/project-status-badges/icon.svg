@@ -72,28 +72,28 @@
           style="stroke-width:125"
           id="project-text">P</tspan></text>
       <rect
-         style="fill:teal;fill-rule:evenodd;stroke-width:10.81;paint-order:markers fill stroke"
+         style="fill:teal;fill-rule:evenodd;stroke-width:10;paint-order:markers fill stroke"
          id="status-text-background-top"
          width="96"
          height="48"
          x="96"
          y="0" />
       <rect
-         style="fill:#97ca00;fill-opacity:1;fill-rule:evenodd;stroke-width:14.7398;paint-order:markers fill stroke"
+         style="fill:#97ca00;fill-opacity:1;fill-rule:evenodd;stroke-width:10;paint-order:markers fill stroke"
          id="status-text-background-middle-top"
          width="96"
          height="48"
          x="96"
          y="48" />
       <rect
-         style="fill:#dfb317;fill-opacity:1;fill-rule:evenodd;stroke-width:14.7398;paint-order:markers fill stroke"
+         style="fill:#dfb317;fill-opacity:1;fill-rule:evenodd;stroke-width:10;paint-order:markers fill stroke"
          id="status-text-background-middle-bottom"
          width="96"
          height="48"
          x="96"
          y="96" />
       <rect
-         style="fill:#e05d44;fill-opacity:1;fill-rule:evenodd;stroke-width:14.7398;paint-order:markers fill stroke"
+         style="fill:#e05d44;fill-opacity:1;fill-rule:evenodd;stroke-width:10;paint-order:markers fill stroke"
          id="status-text-background-bottom"
          width="96"
          height="48"
