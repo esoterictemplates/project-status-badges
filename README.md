@@ -30,7 +30,7 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
 
 2. Add the following text to your file:
    ```markdown
-   [![Project status: CURRENT_PROJECT_STATUS](./assets/images/badges/CURRENT_PROJECT_STATUS.svg)](https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/tree/DOCUMENTATION_VERSION#CURRENT_PROJECT_STATUS)
+   [![Project status: CURRENT_PROJECT_STATUS](./assets/images/badges/CURRENT_PROJECT_STATUS.svg "The status of this project")](https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/tree/DOCUMENTATION_VERSION#CURRENT_PROJECT_STATUS "The status of this project")
    ```
 
    Alternatively, you can use link aliases to keep things short and organised.
@@ -38,8 +38,8 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
    ```markdown
    [![Project status: CURRENT_PROJECT_STATUS][status]][project-status]
 
-   [status]: ./assets/images/badges/CURRENT_PROJECT_STATUS.svg
-   [project-status]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/tree/DOCUMENTATION_VERSION#CURRENT_PROJECT_STATUS
+   [status]: ./assets/images/badges/CURRENT_PROJECT_STATUS.svg (The status of this project)
+   [project-status]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/tree/DOCUMENTATION_VERSION#CURRENT_PROJECT_STATUS (The status of this project)
    ```
 
    Replace:
@@ -55,7 +55,7 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
 
 1. Add the following text to your file:
    ```markdown
-   [![Project status: CURRENT_PROJECT_STATUS](https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/VERSION/assets/images/badges/CURRENT_PROJECT_STATUS.svg)](https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/tree/DOCUMENTATION_VERSION#CURRENT_PROJECT_STATUS)
+   [![Project status: CURRENT_PROJECT_STATUS](https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/VERSION/assets/images/badges/CURRENT_PROJECT_STATUS.svg "The status of this project")](https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/tree/DOCUMENTATION_VERSION#CURRENT_PROJECT_STATUS "The status of this project")
    ```
 
    Alternatively, you can use link aliases to keep things short and organised.
@@ -63,8 +63,8 @@ The badges were derived from [Shields.io Badges][shields], a [CC0][shields-licen
    ```markdown
    [![Project status: CURRENT_PROJECT_STATUS][status]][project-status]
 
-   [status]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/VERSION/assets/images/badges/CURRENT_PROJECT_STATUS.svg
-   [project-status]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/tree/DOCUMENTATION_VERSION#CURRENT_PROJECT_STATUS
+   [status]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/raw/VERSION/assets/images/badges/CURRENT_PROJECT_STATUS.svg (The status of this project)
+   [project-status]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/tree/DOCUMENTATION_VERSION#CURRENT_PROJECT_STATUS (The status of this project)
    ```
 
    Replace:
