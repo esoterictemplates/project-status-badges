@@ -4,7 +4,7 @@
 
 * © 1995-2003 [Internet Software Consortium (ISC)][isc-license-author]
 * © 2004-2013 [Internet Systems Consortium Incorporated (ISC)][isc-license-author]
-* [Licensed][isc-license-license-statement] ["like SPDX: 0BSD"][isc-license-license]
+* Licensed "like SPDX: 0BSD"
 
 ### Files
 
@@ -49,9 +49,6 @@
 
 [isc-license-local]: ../LICENSE (This project's license)
 [isc-license-readme]: ../README.md#license (The ISC License in the README.md file)
-
-[isc-license-license-statement]: https://www.isc.org/licenses/ (The license statement of the ISC License)
-[isc-license-license]: https://www.isc.org/licenses/ (The licensing of the ISC License)
 
 [isc-license-author]: https://www.isc.org/ (The Internet Systems Consortium)
 
