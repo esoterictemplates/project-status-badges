@@ -8,8 +8,8 @@
 
 ### Files
 
-* [LICENSE][isc-license-local] template from [isc.org][isc-license]
-* [README.md][isc-license-readme] contains the [ISC License][isc-license]
+* [`LICENSE`][isc-license-local] template from [isc.org][isc-license]
+* [`README.md`][isc-license-readme] contains the [ISC License][isc-license]
 
 ## [Creative Commons][cc] [Icons][cc-icons]
 
@@ -18,8 +18,8 @@
 
 ### Files
 
-* [cc.svg][cc-icon] from [mirrors.creativecommons.org][cc-icon-remote]
-* [zero.svg][cc0-icon] from [mirrors.creativecommons.org][cc0-icon-remote]
+* [`cc.svg`][cc-icon] from [mirrors.creativecommons.org][cc-icon-remote]
+* [`zero.svg`][cc0-icon] from [mirrors.creativecommons.org][cc0-icon-remote]
 
 ## [Shields.io][shields] [Badges][shields-badges] @ [2025/5/1][shields@2025/5/1]
 
@@ -31,10 +31,10 @@
 
 ### Files
 
-* [maintained.svg][maintained-original] originally from [img.shields.io][maintained-remote]
-* [finished.svg][finished-original] originally from [img.shields.io][finished-remote]
-* [unfinished.svg][unfinished-original] originally from [img.shields.io][unfinished-remote]
-* [abandoned.svg][abandoned-original] originally from [img.shields.io][abandoned-remote]
+* [`maintained.svg`][maintained-original] originally from [img.shields.io][maintained-remote]
+* [`finished.svg`][finished-original] originally from [img.shields.io][finished-remote]
+* [`unfinished.svg`][unfinished-original] originally from [img.shields.io][unfinished-remote]
+* [`abandoned.svg`][abandoned-original] originally from [img.shields.io][abandoned-remote]
 
 ## [Inkscape][inkscape] [1.2.2][inkscape-1.2.2]
 
@@ -43,7 +43,7 @@
 
 ### Files
 
-* [icon.svg][icon] created using [Inkscape][inkscape] [1.2.2][inkscape-1.2.2]
+* [`icon.svg`][icon] created using [Inkscape][inkscape] [1.2.2][inkscape-1.2.2]
 
 [isc-license]: https://www.isc.org/licenses/ (The ISC License)
 
